@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .RYUKYU one-word domains still available to buy.
 
-This dataset contains 581 .RYUKYU one word domains with availability, attractiveness and demand scores.
+This dataset contains 592 .RYUKYU one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.RYUKYU one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ryukyu-oneword-domains&utm_content=description.top) (576) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.RYUKYU one word domai
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/ryukyu-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/ryukyu-oneword-domains/blob/main/ryukyu.csv"><b>⬇️ CSV (581 domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/ryukyu-oneword-domains/blob/main/ryukyu.json"><b>⬇️ JSON (581 domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/ryukyu-oneword-domains/blob/main/ryukyu.csv"><b>⬇️ CSV (592 domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/ryukyu-oneword-domains/blob/main/ryukyu.json"><b>⬇️ JSON (592 domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ryukyu-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (576)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -26,8 +26,8 @@ If you want to search & filters the complete database of [.RYUKYU one word domai
 | abdominal.ryukyu  | available | 82       | 1%     | 9      |           |         |         |
 | abhorrent.ryukyu  | available | 54       | 1%     | 9      |           |         |         |
 | abiding.ryukyu    | available | 106      | 5%     | 7      |           |         |         |
-| abnormal.ryukyu   | available | 74       | 15%    | 8      |           |         |         |
-| above.ryukyu      | available | 112      | 20%    | 5      |           |         |         |
+| abnormal.ryukyu   | available | 74       | 14%    | 8      |           |         |         |
+| above.ryukyu      | available | 112      | 18%    | 5      |           |         |         |
 | aboveboard.ryukyu | available | 60       | 5%     | 10     |           |         |         |
 | abradant.ryukyu   | available | 70       | 1%     | 8      |           |         |         |
 | abranchial.ryukyu | available | 50       | 1%     | 10     |           |         |         |
@@ -37,12 +37,12 @@ If you want to search & filters the complete database of [.RYUKYU one word domai
 | abroach.ryukyu    | available | 82       | 1%     | 7      |           |         |         |
 | abroad.ryukyu     | available | 92       | 9%     | 6      |           |         |         |
 | absent.ryukyu     | available | 102      | 8%     | 6      |           |         |         |
-| absolute.ryukyu   | available | 80       | 23%    | 8      |           |         |         |
+| absolute.ryukyu   | available | 80       | 22%    | 8      |           |         |         |
 | acanthotic.ryukyu | available | 46       | 1%     | 10     |           |         |         |
 | acapnial.ryukyu   | available | 46       | 1%     | 8      |           |         |         |
 | acapnic.ryukyu    | available | 50       | 1%     | 7      |           |         |         |
 | acappella.ryukyu  | available | 66       | 6%     | 10     |           |         |         |
-| accepting.ryukyu  | available | 74       | 3%     | 9      |           |         |         |
+| accepting.ryukyu  | available | 74       | 2%     | 9      |           |         |         |
 | accessary.ryukyu  | available | 66       | 1%     | 9      |           |         |         |
 | accessible.ryukyu | available | 78       | 18%    | 10     |           |         |         |
 | accessory.ryukyu  | available | 84       | 7%     | 9      |           |         |         |
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.RYUKYU one word domai
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/ryukyu-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/ryukyu-oneword-domains/blob/main/ryukyu.csv"><b>⬇️ CSV (581 domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/ryukyu-oneword-domains/blob/main/ryukyu.json"><b>⬇️ JSON (581 domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/ryukyu-oneword-domains/blob/main/ryukyu.csv"><b>⬇️ CSV (592 domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/ryukyu-oneword-domains/blob/main/ryukyu.json"><b>⬇️ JSON (592 domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ryukyu-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (576)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -88,9 +88,9 @@ If you want to search & filters the complete database of [.RYUKYU one word domai
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,756       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 63,843       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,573    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 30,719       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 64,044       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,599,086    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
