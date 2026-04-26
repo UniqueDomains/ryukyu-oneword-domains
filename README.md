@@ -1,22 +1,22 @@
-# Available .RYUKYU One-Word Domains (2,207)
+# Available .RYUKYU One-Word Domains (5,237)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-2%2C332%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-2%2C207%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C237%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .ryukyu one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .ryukyu one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **5,237 domains** on the canonical page below.
 
-**Public extract:** 2,332 rows · **Live catalog:** 2,207 domains
+**Public extract:** 1,000 rows · **Live catalog:** 5,237 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/ryukyu`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .RYUKYU one-word domai
 
 ### Files
 
-- `ryukyu.csv` — public CSV extract (2,332 rows)
-- `ryukyu.json` — public JSON extract (2,332 rows)
+- `ryukyu.csv` — public CSV extract (1,000 rows)
+- `ryukyu.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| bad.ryukyu      | available | $22.98    | —             | 142            | 99     | 3      | namecheap |
-| prime.ryukyu    | premium   | —         | —             | 76             | 72     | 5      | —         |
-| comfy.ryukyu    | available | $22.98    | —             | 82             | 99     | 5      | namecheap |
-| daily.ryukyu    | premium   | —         | —             | 74             | 39     | 5      | —         |
-| park.ryukyu     | available | $22.98    | —             | 77             | 99     | 4      | namecheap |
-| diamond.ryukyu  | premium   | —         | —             | 76             | 37     | 7      | —         |
-| bored.ryukyu    | available | $22.98    | —             | 68             | 99     | 5      | namecheap |
-| energy.ryukyu   | premium   | —         | —             | 82             | 35     | 6      | —         |
-| root.ryukyu     | available | $22.98    | —             | 64             | 99     | 4      | namecheap |
-| power.ryukyu    | premium   | —         | —             | 98             | 28     | 5      | —         |
-| bass.ryukyu     | available | $22.98    | —             | 64             | 99     | 4      | namecheap |
-| movie.ryukyu    | premium   | —         | —             | 86             | 28     | 5      | —         |
-| colour.ryukyu   | available | $22.98    | —             | 116            | 98     | 6      | namecheap |
-| library.ryukyu  | premium   | —         | —             | 84             | 28     | 7      | —         |
-| sneak.ryukyu    | available | $22.98    | —             | 104            | 98     | 5      | namecheap |
-| career.ryukyu   | premium   | —         | —             | 116            | 25     | 6      | —         |
-| comic.ryukyu    | available | $22.98    | —             | 97             | 98     | 5      | namecheap |
-| gourmet.ryukyu  | premium   | —         | —             | 94             | 18     | 7      | —         |
-| sapphire.ryukyu | available | $22.98    | —             | 92             | 98     | 8      | namecheap |
-| cameroon.ryukyu | premium   | —         | —             | 81             | 3      | 8      | —         |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| palestine.ryukyu      | available | $22.98    | —             | 63             | 93     | 9      | namecheap |
+| Yours.ryukyu          | premium   | —         | —             | 68             | 18     | 5      | —         |
+| impact.ryukyu         | available | $24.99    | —             | 74             | 74     | 6      | name.com  |
+| Olympicflame.ryukyu   | premium   | —         | —             | 78             | 1      | 13     | —         |
+| Audi.ryukyu           | available | $22.98    | —             | 86             | 69     | 4      | namecheap |
+| AnnaKournikova.ryukyu | premium   | —         | —             | 72             | 1      | 15     | —         |
+| mini.ryukyu           | available | $22.98    | —             | 70             | 69     | 4      | namecheap |
+| Skype.ryukyu          | available | $22.98    | —             | 86             | 65     | 5      | namecheap |
+| square.ryukyu         | available | $22.98    | —             | 72             | 65     | 6      | namecheap |
+| Nutella.ryukyu        | available | $22.98    | —             | 72             | 65     | 7      | namecheap |
+| dowjones.ryukyu       | available | $22.98    | —             | 80             | 63     | 9      | namecheap |
+| here.ryukyu           | available | $22.98    | —             | 90             | 58     | 4      | namecheap |
+| WhiteSox.ryukyu       | available | $22.98    | —             | 70             | 58     | 9      | namecheap |
+| better.ryukyu         | available | $22.98    | —             | 88             | 56     | 6      | namecheap |
+| ada.ryukyu            | available | $22.98    | —             | 62             | 53     | 3      | namecheap |
+| bot.ryukyu            | available | $22.98    | —             | 80             | 52     | 3      | namecheap |
+| digital.ryukyu        | available | $22.98    | —             | 86             | 49     | 7      | namecheap |
+| family.ryukyu         | available | $22.98    | —             | 92             | 46     | 6      | namecheap |
+| sun.ryukyu            | available | $22.98    | —             | 78             | 46     | 3      | namecheap |
+| start.ryukyu          | available | $22.98    | —             | 82             | 45     | 5      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 2,332-row public sample | 2,207 live domains                               |
+| 1,000-row public sample | 5,237 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RYUKYU One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RYUKYU One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
