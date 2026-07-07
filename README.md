@@ -1,10 +1,10 @@
-# Available .RYUKYU One-Word Domains (6,723)
+# Available .RYUKYU One-Word Domains (6,752)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C723%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C752%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .ryukyu one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **6,723 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **6,752 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 6,723 domains · **Median ask:** $23.01 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 6,752 domains · **Median ask:** $22.98 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/ryukyu`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/ryukyu`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .RYUKYU one-word domai
 
 ### Files
 
-- `ryukyu.csv` — public CSV extract (1,000 rows)
-- `ryukyu.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `ryukyu.csv`, public CSV extract (1,000 rows)
+- `ryukyu.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| true.ryukyu      | available | $22.98    | —             | 86             | 50     | 4      | namecheap |
-| contact.ryukyu   | available | $22.98    | —             | 84             | 46     | 7      | namecheap |
-| absent.ryukyu    | available | $22.98    | —             | 102            | 11     | 6      | namecheap |
-| ancient.ryukyu   | available | $22.98    | —             | 92             | 22     | 7      | namecheap |
-| mantra.ryukyu    | available | $22.98    | —             | 80             | 29     | 6      | namecheap |
-| medium.ryukyu    | available | $22.98    | —             | 98             | 24     | 6      | namecheap |
-| course.ryukyu    | available | $22.98    | —             | 88             | 28     | 6      | namecheap |
-| pineapple.ryukyu | available | $22.98    | —             | 82             | 35     | 9      | namecheap |
-| shame.ryukyu     | available | $22.98    | —             | 110            | 13     | 5      | namecheap |
-| nonstop.ryukyu   | available | $22.98    | —             | 98             | 28     | 7      | namecheap |
-| negative.ryukyu  | available | $22.98    | —             | 112            | 14     | 8      | namecheap |
-| colour.ryukyu    | available | $22.98    | —             | 116            | 98     | 6      | namecheap |
-| one.ryukyu       | available | $22.98    | —             | 132            | 50     | 3      | namecheap |
-| ten.ryukyu       | available | $22.98    | —             | 82             | 31     | 3      | namecheap |
-| library.ryukyu   | premium   | —         | —             | 84             | 28     | 7      | —         |
-| brilliant.ryukyu | available | $22.98    | —             | 86             | 34     | 9      | namecheap |
-| sapphire.ryukyu  | available | $22.98    | —             | 92             | 63     | 8      | namecheap |
-| english.ryukyu   | available | $22.98    | —             | 96             | 35     | 7      | namecheap |
-| heroic.ryukyu    | available | $22.98    | —             | 100            | 22     | 6      | namecheap |
-| air.ryukyu       | available | $22.98    | —             | 84             | 48     | 3      | namecheap |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| add.ryukyu | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| ago.ryukyu | available | $22.98    | —             | medium         | low    | 3      | namecheap |
+| aid.ryukyu | available | $22.98    | —             | medium         | low    | 3      | namecheap |
+| air.ryukyu | available | $22.98    | —             | high           | medium | 3      | namecheap |
+| ale.ryukyu | available | $22.98    | —             | medium         | low    | 3      | namecheap |
+| atp.ryukyu | available | $22.98    | —             | medium         | low    | 3      | namecheap |
+| bee.ryukyu | available | $22.98    | —             | high           | medium | 3      | namecheap |
+| ben.ryukyu | available | $22.98    | —             | high           | medium | 3      | namecheap |
+| bit.ryukyu | available | $22.98    | —             | high           | medium | 3      | namecheap |
+| but.ryukyu | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| CNN.ryukyu | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| cot.ryukyu | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| dip.ryukyu | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| dna.ryukyu | available | $22.98    | —             | high           | medium | 3      | namecheap |
+| dog.ryukyu | available | $22.98    | —             | high           | medium | 3      | namecheap |
+| dvd.ryukyu | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| dye.ryukyu | available | $22.98    | —             | medium         | low    | 3      | namecheap |
+| ear.ryukyu | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| eat.ryukyu | available | $22.98    | —             | high           | low    | 3      | namecheap |
+| ego.ryukyu | available | $22.98    | —             | medium         | low    | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 6,723 live domains                         |
+| 1,000-row public sample | 6,752 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is focused entirely on one-word .ryukyu domains. The main decision here is not category breadth, but word strength inside a niche extension. Stronger choices tend to be clear, easy to recall, and flexible across uses, such as true.ryukyu, contact.ryukyu, mantra.ryukyu, or course.ryukyu. More specific or emotionally loaded words like absent.ryukyu or shame.ryukyu may narrow buyer or brand fit. With a median ask of 23.03, price is relatively compressed, so selection quality matters more than small pricing differences. When comparing these domains, prioritize memorability, spelling simplicity, tone, and whether the word feels commercially usable with .ryukyu.
+This selection covers 6,752 one-word .ryukyu domain names, ranging from short everyday words such as most.ryukyu and spirits.ryukyu to distinctive references like AlbertEinstein.ryukyu and lordoftherings.ryukyu. The median asking price across this list is near $23, making .ryukyu one of the more affordable novelty extensions for locking in a short, ownable name. Names span plain nouns, playful phrases, and pop-culture nods, giving both quick shortlist builders and opportunistic buyers plenty of angles to compare before committing.
 
-- Prioritize clear, versatile words over narrow or negative terms
-- Check whether the word reads naturally with .ryukyu
-- Use median ask 23.03 as a baseline for price discipline
-- Favor memorable spelling and broad commercial fit
+- 6,752 one-word .ryukyu domain names in this set
+- Median asking price near $23 — budget-friendly entry
+- Mix of plain words, phrases, and pop-culture names
+- Updated daily as pricing and availability shift
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RYUKYU One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RYUKYU One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
