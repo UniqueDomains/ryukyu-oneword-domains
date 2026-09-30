@@ -1,10 +1,15 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 ef56f18f-d669-4359-a599-f3dc3638dc23,climbing.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,24/09/2026 15:41
+bbfaae33-05e7-4a17-8842-c5d3e57c39fe,brow.ryukyu,available,17.98,22.98,medium,low,4,namecheap,,,29/09/2026 04:36
 39670153-4be4-45d3-97d4-842e4e43d211,bikini.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,23/09/2026 15:38
 1ac7dc1e-cbe8-408b-b843-32b966f17a3f,blackface.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,24/09/2026 02:15
 c5b8e1e5-f7e6-4157-bb43-f1f4a0a8b83f,policies.ryukyu,available,22.98,,medium,low,8,namecheap,,,
+a49a4c7a-292e-4a2d-98b2-9f5a1360138c,canoe.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,29/09/2026 06:41
 fb7baeb4-0b82-4084-9aee-639b46bbb7cf,cosmetic.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,24/09/2026 00:13
-edc9cbfd-e703-42bc-bb0b-d19aedf239c5,chew.ryukyu,available,22.98,,high,low,4,namecheap,,,
+076bd05e-2044-41d1-885a-d299d6eaea17,researching.ryukyu,available,17.98,22.98,high,low,11,namecheap,,,29/09/2026 21:29
+bb44e96e-59bd-48b5-adb9-e2bc85bd6889,booty.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,29/09/2026 11:44
+edc9cbfd-e703-42bc-bb0b-d19aedf239c5,chew.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,29/09/2026 08:20
+1c150f68-21b3-4f84-ac45-3c2eec3a9049,freed.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,29/09/2026 05:07
 e5a319b4-0eb6-4cf0-869e-455a22d5247b,npr.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,28/09/2026 07:36
 b438b0c9-60ff-4c37-9012-5c131a09dc50,antidote.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,19/09/2026 14:20
 cd69d6de-a7e0-46f6-9d27-ad5eb750eeb5,sorely.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,16/09/2026 05:13
@@ -13,17 +18,27 @@ a637c57f-5727-4368-804d-a5eb9f069401,gel.ryukyu,available,17.98,22.98,high,low,3
 a24f031a-7149-4134-8e8f-a3968e168844,indemnity.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,18/09/2026 18:43
 cd5008b1-8b84-4ebc-82d1-8b0696b483ad,alicia.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,27/09/2026 07:22
 2225018f-6fc9-4ed1-be24-e82620460f4d,chick.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,24/09/2026 14:27
+1465710d-0942-4f7f-ae97-063dd902b70c,hutchins.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,28/09/2026 19:28
+8bd6a796-0276-42ea-95c4-125660bfeed6,gerber.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,29/09/2026 09:42
 4a91e3e9-65aa-4ba1-9e59-cc6a977cba2d,regarding.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,27/09/2026 06:20
+d10aa2d7-c166-491c-9530-9305d3741798,ott.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,28/09/2026 21:01
+feee5476-fb43-400a-9dad-26c62ec337e6,ibsen.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,29/09/2026 13:02
 42d695e2-e80c-406f-95d1-1d65ab78c9da,dishcloth.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,24/09/2026 22:40
+441c696c-d138-4717-bdf8-0e3b7539d7ad,mailing.ryukyu,available,33.99,33.99,high,low,7,godaddy,,,30/09/2026 02:11
 423771a2-d83f-4bad-8f36-36c372321579,vanzetti.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,22/09/2026 09:26
-8415c3f0-6b71-4188-aaa9-05367377eb9e,rostrum.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,18/09/2026 17:15
+8415c3f0-6b71-4188-aaa9-05367377eb9e,rostrum.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,18/09/2026 17:15
+88beb969-c821-4582-884b-1484b2a42d28,staffordshire.ryukyu,available,17.98,22.98,medium,low,13,namecheap,,,28/09/2026 11:53
 edb7bc8a-d6af-4828-96fd-0a2edc4bd851,associates.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,28/09/2026 08:50
 d501ff12-d6c5-4247-b0d1-7f5a39d84917,skulls.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,20/09/2026 10:31
-60de73a8-5398-40cb-b6ff-8271a8709822,cuvier.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,22/09/2026 07:06
+60de73a8-5398-40cb-b6ff-8271a8709822,cuvier.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,22/09/2026 07:06
 9b910c45-3dda-415c-b1e0-ba52be1bbf8f,bankia.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,22/09/2026 02:48
-1d81bf03-2e24-4ed3-91c6-4700aef886fc,repeated.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,27/09/2026 11:04
+3c433bb4-8cf2-4d41-8dd3-6646a37ea002,tits.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,29/09/2026 21:14
+1d81bf03-2e24-4ed3-91c6-4700aef886fc,repeated.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,27/09/2026 11:04
+a4f6142f-7850-4cc6-b737-08962ba98db5,hymn.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,29/09/2026 01:20
 ae2f916a-08dc-4132-8673-b658fc733192,aftertaste.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,17/09/2026 15:52
+c5756ab5-852f-450c-8fa4-c4262047e45c,constitute.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,29/09/2026 13:09
 099c4ebf-f49b-4343-bd2e-e53e1788c549,lawsuit.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,28/09/2026 05:25
+6c911925-e4bc-4818-a3aa-631673c919dc,graduating.ryukyu,available,17.98,22.98,low,low,10,namecheap,,,28/09/2026 12:36
 e19867f3-a0cf-4707-9f89-b699a943fb5f,agronomy.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,17/09/2026 19:42
 f06f77f4-de27-455b-af9e-afef4b4d47d3,habitat.ryukyu,available,17.98,22.98,high,medium,7,namecheap,,,28/09/2026 08:23
 b72bfaee-4306-4dc4-921e-d1c96647421e,bulla.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,24/09/2026 05:20
@@ -33,19 +48,25 @@ a3e46812-9029-4cd0-9352-dae4cb7fabd4,happiest.ryukyu,available,17.98,22.98,mediu
 1c0c6a6d-290c-420f-a60d-4049f2003bfa,antennaria.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,19/09/2026 12:52
 54fad9bd-0e63-4082-bab0-599e085fb3b8,anamnesis.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,19/09/2026 02:01
 80e6569d-017e-43cb-984f-6e9bb8179879,makeovers.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,21/09/2026 08:55
+613c5577-0486-43fa-836a-0744d317641d,lone.ryukyu,available,17.98,22.98,medium,low,4,namecheap,,,28/09/2026 22:59
+7602d55f-7488-4911-98b9-3f5b4c6ccb3c,inflammatory.ryukyu,available,17.98,22.98,medium,low,12,namecheap,,,29/09/2026 21:18
 076bf2e8-5738-4259-8521-4e2e55044b8a,mattresses.ryukyu,available,24.99,31.99,medium,low,10,name.com,,,20/09/2026 14:45
+4eb79a1b-661c-429e-b4e2-f0c20952dd72,marston.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,28/09/2026 16:09
 c341edfd-073c-4a8f-94d6-1e49641e2fab,recaptured.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,18/09/2026 19:20
 9c2aeafd-435d-47e4-bf63-5d5c66384dce,moosewood.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,16/09/2026 23:36
+3af05b37-4683-44d5-85ea-aef3dcecbed9,tunnels.ryukyu,available,17.98,22.98,low,low,7,namecheap,,,28/09/2026 12:41
 0a60be9e-10cd-4f0c-86a3-bbdb6422d010,shallow.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,27/09/2026 20:23
+631bb442-77c6-4e32-a7d9-701786e38cb8,scatter.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,29/09/2026 08:02
 a34ed0ac-5b33-476a-aa3b-52284c4d79a4,tops.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,27/09/2026 21:56
 4a3cb596-48a1-40a6-894c-9b43b0172c57,alcides.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,18/09/2026 04:05
 0a4f3054-6201-48d3-8908-b0c125971bc4,soft.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,24/09/2026 04:03
-762b79d0-1b5f-486e-8fff-75540aae04e3,want.ryukyu,available,22.98,,high,low,4,namecheap,,,
+762b79d0-1b5f-486e-8fff-75540aae04e3,want.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,29/09/2026 13:33
 824cc977-7306-45b8-a92c-e7a526a834d7,rabbits.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,28/09/2026 05:05
 4ac4b29d-1c08-4f6a-ae73-b6fd47c16a8d,cbc.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,28/09/2026 00:59
 85abd876-bbdd-4ad3-9a35-81f204a2fd92,smarts.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,16/09/2026 18:16
 e409651b-ad44-4d13-abee-b4da0b2a0ff8,forrest.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,25/09/2026 12:36
 811c1ace-2a69-4b37-a195-ade4cd37cc82,alta.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,25/09/2026 13:59
+c7115702-f3a7-4536-8fb8-d6e21cad1c79,lady.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,29/09/2026 20:47
 1174808d-c492-4864-81cf-e9dc3e1b1bb5,effects.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,27/09/2026 03:49
 44205dd8-5694-465e-a3c3-84bbb8c6690f,chickens.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,27/09/2026 22:56
 34fc7637-d5fc-44b2-a73b-b2e15e729f48,kisses.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,28/09/2026 04:53
@@ -60,70 +81,105 @@ ca806c38-37b9-4dda-8dec-b47633996000,acetin.ryukyu,available,17.98,22.98,medium,
 a2877767-091b-4d37-8acd-166c0909acfc,flirt.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,24/09/2026 18:13
 a2163a4a-322d-441a-b447-49ac8c10053e,gentleman.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,25/09/2026 06:26
 2ced1479-7d94-4a22-9641-e8603ba69462,mae.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,27/09/2026 18:26
+e38ae79b-a623-46d4-adce-1e2659a499ec,buckle.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,28/09/2026 18:30
 6194f501-29b8-4b68-b6bd-354d6d20c22d,sweltering.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,11/09/2026 05:40
+5f6ea27a-927b-45a0-ba67-0faafae89cf6,crowell.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,29/09/2026 09:14
+6624a629-a69a-4d36-9b18-a573a436da94,courtship.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,29/09/2026 18:31
+b97889c6-2c5a-43df-83ff-885742a772d8,kidnap.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,28/09/2026 20:48
 e061d758-d9eb-4710-b149-faf483405e00,candour.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,24/09/2026 12:03
 6dfa7d44-582d-4fde-9885-06ef9307e7f4,occurred.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,18/09/2026 13:50
 4caca381-f52e-439c-9a15-0a74755fd7ba,asynergy.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,20/09/2026 18:52
 58940427-ac33-47bd-81ae-aa36ebafd2ff,aerophagia.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,17/09/2026 13:11
 a59f9388-4918-4733-88c8-9c5620cdaa6f,candor.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,24/09/2026 12:01
+d6207b73-4b2e-4eed-a9fe-5c336c579713,logging.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,29/09/2026 19:34
 ba38e741-a813-4059-a707-a9cdc0d9191c,proved.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,27/09/2026 07:48
 8952d79f-7c66-4ddc-988d-4d43795d6e3b,eleanor.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,28/09/2026 03:53
 40396a55-ff6f-437a-99e3-a4aa35cd9a35,aphis.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,19/09/2026 17:05
+5496e8ac-4e01-4a1a-912f-c96ad3ad3d18,baja.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,29/09/2026 21:54
 b8571ffe-47e7-4d67-92c3-32b9fda1a7c5,flow.ryukyu,available,17.98,22.98,high,high,4,namecheap,,,24/09/2026 20:11
+a80cc86f-c012-400e-a76d-da6109d8d52f,sabah.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,28/09/2026 20:01
 79e071b3-9fd7-48a4-959d-7b7583994d79,westchester.ryukyu,available,17.98,22.98,medium,low,11,namecheap,,,27/09/2026 01:58
+dfcd82b9-0d5d-4ee6-9f73-67f6dc64c51b,norma.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,28/09/2026 14:58
+f9d64ece-e6ba-4bf9-8a7e-a992e1e7ac8c,disease.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,29/09/2026 15:40
+a28b8e07-6e1c-42e5-8f83-8dd33ec6e4fc,winkler.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,29/09/2026 03:40
 9438d325-b36b-42c0-bae1-cc39f1a632c0,devotes.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,20/09/2026 02:04
+b66dff72-29e4-4e9e-b5db-5ff707855cef,generosity.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,29/09/2026 01:04
+b63fb9d6-4172-454a-8cfd-d3fdde3605e7,revolving.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,29/09/2026 14:43
+9eb97188-621a-49a8-a3c6-fd951759b114,viewing.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,29/09/2026 02:05
+d33f8a99-6e43-4035-8fbe-3fb49a31a195,plymouth.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,29/09/2026 13:43
 7100449c-4370-44b9-9781-09f5288286d4,bizarre.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,22/09/2026 21:11
-694f3b38-254e-435c-b1e0-e6c5f7ca86a4,david.ryukyu,available,22.98,,high,medium,5,namecheap,,,
+694f3b38-254e-435c-b1e0-e6c5f7ca86a4,david.ryukyu,available,17.98,22.98,high,medium,5,namecheap,,,29/09/2026 13:17
+771d8a86-2364-49fa-9b62-71b165ee03ee,jeans.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,28/09/2026 12:09
 1ea53b78-61b7-47dd-b45d-c6de0ab2895d,hays.ryukyu,available,17.98,22.98,medium,low,4,namecheap,,,20/09/2026 10:51
 b606e9fa-bb4f-48b2-a37a-2489e2927d5d,switching.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,28/09/2026 06:49
-1c3b6c76-1539-4915-a151-c5ba40c2e852,conditions.ryukyu,available,22.98,,high,low,10,namecheap,,,
+1c3b6c76-1539-4915-a151-c5ba40c2e852,conditions.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,28/09/2026 10:19
 e235cdd8-dd3d-45f9-a379-de67f3395596,willard.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,25/09/2026 05:33
 2d476470-14b0-4c3e-8700-73ac51da0bcd,astaire.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,20/09/2026 16:54
 17d9c3f6-522f-4244-a888-aa6e857b0dc1,end.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,19/09/2026 15:33
 6a31b7ac-d0f4-47c3-9c3f-dbbbf3407125,computing.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,19/09/2026 12:12
 964e850b-6f7b-410e-ad05-5e7d3a94758c,backbiter.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,21/09/2026 15:08
+e43d76cb-f2fe-44c6-aa6c-a4a59c084b6a,mythology.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,28/09/2026 14:56
 a0d32ebe-208f-44b6-9a53-ff74482f6ad8,allah.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,18/09/2026 09:44
 54047dd4-d4ff-49d0-9b50-4b448dbcb1a4,got.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,27/09/2026 07:08
 a34ba2e3-95fd-4322-b1a6-f080966a0808,abm.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,16/09/2026 16:15
 ec96620a-9480-4c57-a5c7-20e0a2083a7d,consistently.ryukyu,available,22.98,,medium,low,12,namecheap,,,
 5ba3500e-b3fe-4d3c-b996-432e7b55ac62,seeking.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,27/09/2026 15:47
-b88b7418-5a1f-4d02-ab56-e7feb2c0fb21,sarcasm.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,24/09/2026 13:16
+b88b7418-5a1f-4d02-ab56-e7feb2c0fb21,sarcasm.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,24/09/2026 13:16
 f8613826-a8c7-42d4-88f5-20aa7ec75692,emanuel.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,25/09/2026 14:33
+f9b971f0-fc88-4f29-bc07-26a2c5e02ba8,pulp.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,29/09/2026 07:38
 c351d5da-536f-4a19-9fc0-5106efbde24f,cover.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,22/09/2026 21:52
 1f7a806e-c2ce-4949-9888-456979e686cf,enactment.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,17/09/2026 04:06
 f926c69c-68c0-4c25-b489-f0150e298cd5,affiliates.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,21/09/2026 06:56
-9d1e4f2c-2ca6-4a9c-ba95-352f45ad7de7,aniseed.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,19/09/2026 09:27
+9d1e4f2c-2ca6-4a9c-ba95-352f45ad7de7,aniseed.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,19/09/2026 09:27
+b608d3f7-1687-4e27-ab23-826cf8f8a821,violation.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,30/09/2026 00:09
 02486ca1-2cdb-4bfa-9da0-f12cb4c3115c,literary.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,28/09/2026 07:59
+cd9c6312-63e0-4011-9121-1ec586025de3,blaming.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,28/09/2026 18:00
 588c1d0b-fc00-4197-ab5c-64d452779e8f,wand.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,22/09/2026 14:13
 adf9e4fb-5683-418d-a70c-d2c4110e6602,cassidy.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,26/09/2026 03:43
+6f83457e-f083-4ff4-b3b7-0e0296fa907a,fortunes.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,29/09/2026 05:22
 33ea228f-9425-4637-a117-78563ac293ea,mathews.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,27/09/2026 01:56
+ff85d1e4-417c-4340-8820-24c4b1f0b5da,ping.ryukyu,available,17.98,22.98,high,high,4,namecheap,,,28/09/2026 20:11
+ba3294e4-2424-4099-a2e0-a56bd70577ef,barter.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,29/09/2026 01:18
 74e217b0-efd2-4bcc-9a7f-b00094c89fcf,advancing.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,21/09/2026 20:51
 db017ad3-e095-45cb-ac31-103a732bed31,actin.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,17/09/2026 04:37
 be1affbb-8a3f-4b63-a2a1-3f976f34c8f5,ample.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,
 73c0127f-6d9e-4409-97af-3d836dbfd862,auschwitz.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,21/09/2026 04:35
 8844d9c8-a6ee-4f1e-bbea-fe12b75aecaa,blenheim.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,24/09/2026 05:52
+6b74b84f-40c4-494d-8e66-b8330cf154b0,byu.ryukyu,available,17.98,22.98,medium,low,3,namecheap,,,29/09/2026 15:54
 35bd496a-df2e-4268-b0b5-21895edff649,celebration.ryukyu,available,17.98,22.98,high,low,11,namecheap,,,27/09/2026 02:20
 0cf12ef5-6f04-44e2-a122-0cd5863bda13,analgesia.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,19/09/2026 01:49
-8c1613c3-2d70-485a-8aaa-c16e6b2db38c,lockbox.ryukyu,available,22.98,,medium,low,7,namecheap,,,
+f84588c8-358f-444d-be63-18be50f59750,undertaking.ryukyu,available,17.98,22.98,high,low,11,namecheap,,,29/09/2026 21:13
+1702cab5-3967-4503-9f54-cd0804e2d999,sandwiches.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,28/09/2026 13:26
+865be567-0b9e-4c7e-ba7f-3708e67e90ae,vogue.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,29/09/2026 02:30
+8c1613c3-2d70-485a-8aaa-c16e6b2db38c,lockbox.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,29/09/2026 14:03
 9516d4f9-1270-4399-9004-0d15b6054437,balder.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,21/09/2026 21:33
+45b3171a-354d-4069-b121-ac69d4a776ab,wuhan.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,29/09/2026 02:39
 564cd2a2-7fa9-4582-bcd8-8612c607aeac,franklin.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,23/09/2026 08:17
 8699b4ed-bce3-49f7-a62b-e4ff410402de,campground.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,24/09/2026 11:56
+17736cbd-e39c-4290-b6d4-cbf9ba83e70b,wavelength.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,30/09/2026 03:06
 6d67981f-4f45-4f13-8231-a38dcf7aa30f,sexiness.ryukyu,available,24.99,31.99,high,low,8,name.com,,,18/09/2026 16:14
 be2074f3-e2d5-4347-b61e-28ed242d321b,coltsfoot.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,23/09/2026 01:58
 28ea5781-1b42-4612-8620-16c49c699a13,heedful.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,
 0dd391c5-70b3-4a81-bd6b-e3bf6306b819,frankie.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,26/09/2026 03:25
 08cd22f2-a4a7-45d3-a85c-d8b27bc03f25,intercept.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,28/09/2026 06:03
+e31d7d5d-ee70-4424-866a-932b8277d6bf,reg.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,28/09/2026 21:01
+af5390da-218c-4b77-b2ea-6553b6ffe01d,tying.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,29/09/2026 08:16
 4ffbc2b6-9587-44c7-93b3-d24c9fa2138c,billet.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,23/09/2026 10:14
 1832e46d-b597-42b4-b610-c5f2b36b6b05,aguacate.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,07/08/2026 23:46
 340f9b52-b63b-4510-8e8f-71bdce34c76c,mcgraw.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,28/09/2026 06:05
 d060f4c7-411c-4a83-a9fe-a4de20c1ff17,prentice.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,19/09/2026 22:19
+e981b55f-cf58-4d16-ac11-5f4b9511b0e7,unlock.ryukyu,available,17.98,22.98,high,medium,6,namecheap,,,28/09/2026 11:10
 146e70de-8a75-487e-b505-4d456bb9c5f3,skinner.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,21/09/2026 11:52
-c25abcaf-cbab-4160-a22c-6d32e225039d,blanc.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,24/09/2026 03:47
-009443d0-3ebc-4c73-9650-f8fb6f3b7dae,ordnance.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,20/09/2026 11:44
+c25abcaf-cbab-4160-a22c-6d32e225039d,blanc.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,24/09/2026 03:47
+009443d0-3ebc-4c73-9650-f8fb6f3b7dae,ordnance.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,20/09/2026 11:44
 ff78a1b3-bf2b-44bc-87ab-caf4f3ffcbed,hoffman.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,25/09/2026 05:04
+6e49c7df-cc10-4731-95f4-0d8059ef26ad,shook.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,28/09/2026 20:26
+461896bd-bcd1-434a-ac70-8e96ac1d5a5a,infants.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,29/09/2026 23:25
 d65d63e3-e2bf-4523-9c38-d9a3a04efbcf,vocalists.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,19/09/2026 21:58
 e7e62bfd-0087-4dcc-a5f8-6f8eddaca9f2,blueish.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,22/09/2026 22:51
 30b0f63d-a57b-494b-bfaa-f1b43dbbdd95,mps.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,27/09/2026 04:47
+81dbc6c6-b12c-4964-8be7-b19b8b8dc41b,orion.ryukyu,available,17.98,22.98,high,medium,5,namecheap,,,29/09/2026 19:53
+af09e451-c658-40e5-a5aa-50c5bfe225c9,chariot.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,29/09/2026 11:53
 173b6aae-41dc-4bf6-9b20-32c75d05e004,mercy.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,25/09/2026 09:18
 cea28b8a-be91-4573-acf2-285833a3b401,avogadro.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,18/09/2026 17:51
 7a77e702-80ee-434f-8bef-4423ce0ed369,adiabatic.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,
@@ -131,23 +187,29 @@ cea28b8a-be91-4573-acf2-285833a3b401,avogadro.ryukyu,available,17.98,22.98,mediu
 cf3da64a-1ff6-4cea-8c48-bf658ba0b213,xxxiv.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,
 863391a8-c724-4cfa-b552-db96ebc5dbd0,aztec.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,21/09/2026 11:36
 a441cb8b-abdd-4fa4-8b5d-4dd6d08e5e62,eclipse.ryukyu,available,17.98,22.98,high,medium,7,namecheap,,,25/09/2026 23:52
-13c1dcbb-11cf-4af1-9ea8-b8d6453b91e0,ashlar.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,20/09/2026 13:55
+13c1dcbb-11cf-4af1-9ea8-b8d6453b91e0,ashlar.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,20/09/2026 13:55
 cf5918ba-5b3e-4886-9546-d169b09e5358,adviseable.ryukyu,available,22.98,,medium,low,10,namecheap,,,
 8057d31a-9afd-4ee3-bfee-ec09ba1b6d2f,bedrock.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,22/09/2026 10:39
 69027389-e146-4c2f-9313-9430351beadf,shortness.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,16/09/2026 17:27
+38d12377-5804-4968-9210-5237a7d8dcef,layers.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,29/09/2026 04:54
 0fc596e2-92d7-4f49-aa5f-d6070e8c497c,baptisia.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,22/09/2026 03:24
 279831ab-9566-424d-907b-65ad875752b2,bassoonist.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,22/09/2026 12:33
 21854938-e312-4dd6-bc8a-42ae4a4a9744,amiable.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,21/09/2026 21:32
+01313b7a-b53a-491f-bf48-451bb3e08b8c,durango.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,28/09/2026 18:59
 6b2a4c9e-0aec-487d-b430-4bf94f0fa55b,adrian.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,17/09/2026 09:59
 209ebd75-7853-43ed-8fa3-f6741b04ba9d,clicking.ryukyu,available,22.98,,high,low,8,namecheap,,,
 8dc3a269-a822-4fbb-95b3-d943d0de7c14,babushka.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,21/09/2026 12:58
-950e268e-67bc-4507-b75b-b2ae16d9e140,building.ryukyu,available,22.98,,high,low,8,namecheap,,,
+950e268e-67bc-4507-b75b-b2ae16d9e140,building.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,29/09/2026 05:13
 2b2bfa6c-af0d-4618-aedc-c6cf6e48d179,banderilla.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,22/09/2026 01:12
 756b0fea-ea62-4519-916d-2f80df8d85c3,evil.ryukyu,available,17.98,22.98,high,medium,4,namecheap,,,24/09/2026 15:41
-90c26f4f-c642-4688-bc80-5ef81498815c,piper.ryukyu,available,22.98,,high,low,5,namecheap,,,
+90c26f4f-c642-4688-bc80-5ef81498815c,piper.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,29/09/2026 00:31
+d7970dc8-64b0-421c-b12d-0bbdd9bed625,vernon.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,28/09/2026 15:42
+c73d8857-472f-4014-96ea-034c01b2afca,bounced.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,29/09/2026 17:31
 deb3e276-226b-4366-9c1b-879c2b291235,pencil.ryukyu,available,22.98,,high,low,6,namecheap,,,
+f4cf614d-58da-4eca-9645-4ff32723acc9,marjorie.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,29/09/2026 04:00
 9d5a63cd-88fb-450d-b8bd-c2d9d6961c9f,meter.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,25/09/2026 15:55
 6be1483d-5d4a-4c87-b579-2544ef60b774,rollercoaster.ryukyu,available,22.98,,medium,low,14,namecheap,,,
+f72effd5-02b1-490b-81ae-fdbbfb1eeb05,sikkim.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,30/09/2026 02:52
 b6e754f0-8373-4074-a4d5-b21b08e887c1,drugstore.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,19/09/2026 19:43
 4a1b667e-c037-4caa-b7d6-d8e786d07675,adapted.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,21/09/2026 17:02
 c24e399b-de3f-491e-9f38-2ff1f1fdf8b5,geese.ryukyu,available,22.98,,medium,low,5,namecheap,,,
@@ -160,71 +222,112 @@ c48d8bcc-343b-4733-93f5-aa3d3301467e,nobelium.ryukyu,available,17.98,22.98,mediu
 773a7ea9-fc7c-47ac-95ab-230c270776c7,traveler.ryukyu,available,22.98,,high,low,8,namecheap,,,
 44af4e00-160f-4bc1-ba2a-2ec9f700c316,angiology.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,19/09/2026 06:13
 416c7d6d-ecb3-4b88-8fd6-a8e6992e9744,keith.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,17/09/2026 22:02
+0488cb2d-ccc2-437b-8e32-24151ce20f85,quota.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,29/09/2026 07:55
+349f18ee-116e-406e-ae53-500b1edc17c8,divisions.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,29/09/2026 04:40
 5344f6fa-01f8-4cb4-9047-1ad0cc0822d3,soursop.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,19/09/2026 10:36
-d9c530ec-ee78-45d7-931b-baf2c78c8632,christ.ryukyu,available,22.98,,high,low,6,namecheap,,,
+d9c530ec-ee78-45d7-931b-baf2c78c8632,christ.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,29/09/2026 09:03
+6f3d2f12-7980-4d87-a004-deb2783450db,gunpowder.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,29/09/2026 12:59
+16ae966b-a9fa-43a8-b16c-2ab26724bf13,mimi.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,28/09/2026 16:07
+94141755-91ff-4d3c-bafb-efc3bf557593,dawkins.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,29/09/2026 15:39
 f1039a0f-0dd7-4d04-aa49-82ad2b54aba2,tactically.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,16/09/2026 07:46
 47338a70-8f1f-40aa-a7ca-09d3f7b5906f,specialist.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,28/09/2026 02:23
-2c933ca6-7c0a-4e7d-b4dc-5fc7279d6d6f,critic.ryukyu,available,22.98,,high,low,6,namecheap,,,
+2c933ca6-7c0a-4e7d-b4dc-5fc7279d6d6f,critic.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,29/09/2026 12:01
 b4d90440-fd46-4877-82c7-3752f33ac0aa,sorts.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,27/09/2026 10:13
+bbfc803e-c5b2-4a6a-8ab4-982912ad3c0d,tucson.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,29/09/2026 02:22
 ea8020e9-f749-4b3d-b5d0-c6a3969b1774,categoric.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,11/08/2026 21:29
 9dadfe88-5425-4b92-accb-a7ac1cf37856,gad.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,19/09/2026 15:59
-fd1e5ff9-04dd-4105-a334-7d3118829617,atheneum.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,20/09/2026 20:41
-67e81527-8099-4ca9-928f-2718074f7871,bargainer.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,22/09/2026 05:32
-2f645187-a0eb-4153-9ae8-108200a3c77e,happily.ryukyu,available,22.98,,high,low,7,namecheap,,,
+fd1e5ff9-04dd-4105-a334-7d3118829617,atheneum.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,20/09/2026 20:41
+67e81527-8099-4ca9-928f-2718074f7871,bargainer.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,22/09/2026 05:32
+2f645187-a0eb-4153-9ae8-108200a3c77e,happily.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,28/09/2026 13:29
 e018d315-f137-43e3-ad6a-a00a66223773,buttercups.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,20/09/2026 19:49
+6dbfef25-3f55-4463-a125-65a224b6c872,loretta.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,28/09/2026 22:00
 cfdbd3ff-7df9-497e-82b0-0cb997ed7fe5,confessed.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,28/09/2026 04:56
-9aeb0e4e-8c12-4ab2-913d-e0326aa51408,richmond.ryukyu,available,22.98,,high,low,8,namecheap,,,
+f5e81d79-8281-4d42-9a5e-3893d8e2b5ea,tombstone.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,29/09/2026 12:58
+3654e243-e73d-4c73-82b8-64bcf5d41dcf,ulm.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,29/09/2026 09:33
+708ba208-e565-4a47-8960-564367e400e4,capturing.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,29/09/2026 16:31
+4cc9efa9-4898-4b24-8a54-302e6a067649,prediction.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,29/09/2026 00:58
+e3780bf9-3238-43cc-b23f-3e9431408af1,post.ryukyu,available,17.98,22.98,high,medium,4,namecheap,,,29/09/2026 02:12
+9aeb0e4e-8c12-4ab2-913d-e0326aa51408,richmond.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,29/09/2026 07:18
 7667810f-42ab-41ff-824c-4d176e47e9d9,veggie.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,19/09/2026 06:34
 27090370-1a76-4d11-b7ef-a632144f1bb9,clipboard.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,24/09/2026 15:44
 211f6892-6f5c-46f4-b390-9d912bc0f28c,hardware.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,24/09/2026 16:57
+b96ee844-c710-4657-ab00-eb8e16d28e13,remark.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,28/09/2026 09:26
 5b944b9e-517c-4783-a891-031dd1defd97,chekov.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,19/09/2026 15:28
+a6e312f7-f05c-4afb-9ded-b47d9a5ac615,estes.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,28/09/2026 22:16
+73eb6ee3-d2ba-4c66-8983-0b4a5fc5ae67,clutch.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,28/09/2026 09:23
+af188f95-8354-42f6-b758-488b6fa5e3e0,turk.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,29/09/2026 08:16
 11a39bfe-13ec-4200-9f78-0a04dfcb379b,mark.ryukyu,available,24.99,31.99,high,medium,4,name.com,,,24/09/2026 01:59
+66989986-0e00-4bd8-90ce-a65335f928a3,horrors.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,30/09/2026 00:17
 10acf497-5382-476d-b058-d81fd1864059,salim.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,19/09/2026 04:37
+66895cb6-1502-419f-a4bf-5f2a80694e3b,winona.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,28/09/2026 22:06
 c26a149b-a71b-4dc3-9d99-106353b55995,bns.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,21/09/2026 14:15
+a1d10fb5-7ccb-470c-9dee-9bfd6cb14be5,coughing.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,29/09/2026 18:29
 56a096bf-ed1f-43b0-b2ca-3462d5f79c1c,meld.ryukyu,available,24.99,31.99,high,low,4,name.com,,,22/09/2026 11:20
 b364ace6-7c9c-4499-b281-9278ee555612,windmills.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,20/09/2026 13:55
 ddd0e40a-02d6-4361-89b5-bb3f7e69afb1,justin.ryukyu,available,17.98,22.98,high,medium,7,namecheap,,,25/09/2026 16:02
+443c5a87-f6da-4c7e-b464-0f57587cc70e,organisation.ryukyu,available,17.98,22.98,high,low,12,namecheap,,,29/09/2026 04:49
+5a43b042-46a6-4a2e-90b2-6d700a24b93a,leagues.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,29/09/2026 11:01
 bd7498e9-1e7f-4b85-9f08-e7773c90cb87,atypical.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,07/08/2026 16:06
+fcf369f6-c4b2-434d-9aee-74013cfa7489,negotiating.ryukyu,available,17.98,22.98,medium,low,11,namecheap,,,29/09/2026 00:06
+a5ba0afa-c1ad-4b7e-a632-70a898d44970,tequila.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,29/09/2026 20:30
+0f65c521-e47a-429c-95a9-909dae515d46,pao.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,29/09/2026 09:17
 8204cd6d-f60c-4d29-9cb5-cfd50f0e1666,aground.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,
+0c4f3551-a96a-4621-9489-c2dc926519bd,christianity.ryukyu,available,17.98,22.98,high,low,12,namecheap,,,29/09/2026 15:11
 dcf14ac5-9708-4456-8019-325cdf3569cb,black.ryukyu,available,17.98,22.98,high,medium,5,namecheap,,,22/09/2026 21:16
 48f21cfd-3d99-499d-8200-565d5ce865f6,baykal.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,21/09/2026 18:56
 175cadc1-a793-4aef-8909-6df1dc04f121,indian.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,22/09/2026 04:13
 1b37fce6-2523-40a9-a2be-35327c0b98ce,areopagus.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,20/09/2026 03:52
-2dc69ef4-65b1-40e2-9081-900cbac48ba6,yelled.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,27/09/2026 21:26
+d88ea90a-4134-4dcf-b17b-8a33a8082940,mystique.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,29/09/2026 19:44
+2dc69ef4-65b1-40e2-9081-900cbac48ba6,yelled.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,27/09/2026 21:26
 e63cd4c0-94df-4f95-84fe-ecad68714b8b,allows.ryukyu,available,17.98,22.98,low,low,6,namecheap,,,28/09/2026 08:44
 f0b2f7d1-5e3f-4e13-b4bb-08f34378453c,show.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,24/09/2026 16:06
 2d34afa7-4108-492d-9d98-5920389e90ca,richelieu.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,20/09/2026 06:31
-254a41f0-fd35-4a14-aae3-ef530bb2a80c,handrail.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,22/09/2026 00:31
+254a41f0-fd35-4a14-aae3-ef530bb2a80c,handrail.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,22/09/2026 00:31
 43f5ecf2-3be9-4d6e-8155-ee32a39e6e75,webster.ryukyu,available,33.99,33.99,high,low,7,godaddy,,,28/09/2026 01:45
+1cc9a2d2-86d5-47c7-82bf-706684cf2fe2,overlap.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,30/09/2026 02:25
 77e6166f-6603-4984-814b-d0329df42656,mixed.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,19/09/2026 12:23
+48da4bef-026e-4af9-8941-bb0bc660d25a,extravagant.ryukyu,available,17.98,22.98,high,low,11,namecheap,,,30/09/2026 03:34
+d53dc641-c2cf-4a29-8ed9-391bb1d3bb91,dre.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,29/09/2026 21:06
 d9f476d8-9577-4ef6-b0a7-97a503f96ec3,orton.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,28/09/2026 08:09
 bbd71908-0b0c-4488-bcbd-728277af4f56,magnesium.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,20/09/2026 22:22
 421da4ee-8a42-4efd-8cfd-675a950dc748,orchestrated.ryukyu,available,17.98,22.98,high,low,12,namecheap,,,16/09/2026 23:12
-0fbe7de1-4eef-4e8a-81ec-4a1a9533bb5a,burden.ryukyu,available,22.98,,medium,low,6,namecheap,,,
+0fbe7de1-4eef-4e8a-81ec-4a1a9533bb5a,burden.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,29/09/2026 05:26
 0e6cbe14-d23b-4e11-b60b-28dd965f631c,closets.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,20/09/2026 19:05
+945a9b2b-a111-4026-859d-b1702a8e4e30,feminism.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,29/09/2026 19:12
 f17314f4-092a-47b4-95c6-b2a66de442a5,maddening.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,17/08/2026 15:55
 4b45e52e-0b2c-4e51-9859-3919e1353895,firing.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,27/09/2026 03:58
 224e55e1-f1fa-4b33-8c9c-56d6863a1968,kissing.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,24/09/2026 12:56
+de9761b9-0683-4833-b30b-780f4d9f8a9d,avenge.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,29/09/2026 13:46
 24f93969-bee4-485c-a57b-2e0e1d9405aa,whimsy.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,20/09/2026 00:42
+ef0b78c4-1462-4414-ba0f-9df728b68356,sars.ryukyu,available,17.98,22.98,medium,low,4,namecheap,,,29/09/2026 20:17
 81d59d9e-15b5-462e-86e1-d76f149d8a98,guests.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,25/09/2026 17:02
-91c60a49-289c-4d68-b967-e37146f04a17,closest.ryukyu,available,22.98,,medium,low,7,namecheap,,,
+38ea8de1-c607-4c4e-9318-fd2d7a93ab33,insensitive.ryukyu,available,17.98,22.98,medium,low,11,namecheap,,,29/09/2026 03:19
+01d49d75-8e74-4753-b9ec-40067d2fadf4,guildford.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,29/09/2026 15:26
+9be843c9-3f52-4cff-aa64-3b8f6b65176b,nurse.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,29/09/2026 22:12
+91c60a49-289c-4d68-b967-e37146f04a17,closest.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,28/09/2026 14:05
 b8f8163d-3c20-42e7-8a56-b723aa21c730,patientcare.ryukyu,available,22.98,,high,low,11,namecheap,,,
 b694587d-5143-428a-9917-3d53d8182bdf,proceeded.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,18/09/2026 01:36
 7f97fa7d-fe26-4db0-8e56-03873ee95552,bite.ryukyu,available,22.98,,high,low,4,namecheap,,,
 7cd36a2f-39e9-49be-ab15-6ce6b9abd8ca,innovation.ryukyu,available,17.98,22.98,high,medium,10,namecheap,,,28/09/2026 03:06
-fcd1f1f5-e701-4bfe-95e2-a0e012ae5c5d,birth.ryukyu,available,22.98,,high,low,5,namecheap,,,
+fcd1f1f5-e701-4bfe-95e2-a0e012ae5c5d,birth.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,29/09/2026 02:50
 ec80bc96-0e48-4d3c-9ba5-93075dca07e7,frenzy.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,24/09/2026 21:40
-88cdb542-ced5-48d4-a7f6-f9054603423d,actress.ryukyu,available,22.98,,high,low,7,namecheap,,,
+88cdb542-ced5-48d4-a7f6-f9054603423d,actress.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,28/09/2026 18:10
+e629ca84-461c-42e5-aada-edcc45ed3f6d,dix.ryukyu,available,17.98,22.98,medium,low,3,namecheap,,,29/09/2026 12:04
+8e5f661e-2d49-4cc2-92fb-57b637f74629,rochdale.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,29/09/2026 09:50
 ce20ec1a-bb34-4384-8131-acde77301e2e,alkahest.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,18/09/2026 03:42
 9f5d2b69-0adb-4af4-b216-890288a29eed,abstention.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,16/09/2026 18:27
 21991214-f21a-462f-868a-5a638e69a0c1,belgrade.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,23/09/2026 05:11
-b85f8f45-fb08-40b0-a690-2bc9188d3575,comes.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,17/09/2026 22:46
+67265362-f145-4ed3-b783-5f4bb67b0758,catastrophe.ryukyu,available,17.98,22.98,medium,low,11,namecheap,,,28/09/2026 22:54
+52354ae1-61be-4326-830d-c917c31feb3b,vincenzo.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,29/09/2026 04:08
+adb3b8a4-1b7f-451f-bcf2-dd6d292b7bf0,moldavia.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,29/09/2026 13:27
+b85f8f45-fb08-40b0-a690-2bc9188d3575,comes.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,17/09/2026 22:46
 15cf54b7-dd17-4f3b-8a09-beb59e1e09c1,oakland.ryukyu,available,22.98,,high,low,7,namecheap,,,
 cfeeb86c-1b69-478f-bc96-1f8eb9182fdf,terrorism.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,17/09/2026 04:10
+6b54cef1-27f2-47d4-8f85-44460b0339e0,leavitt.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,29/09/2026 04:25
 bc4981dc-1e8c-44e8-9558-6ec5e1a8f87a,ambrosia.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,18/09/2026 17:26
 73a014a8-29c2-4173-86eb-fedd409686b8,buddha.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,28/09/2026 05:20
 d958fad7-8b22-40f1-958b-529cc315bd89,pump.ryukyu,available,24.99,31.99,high,medium,4,name.com,,,25/09/2026 10:10
-eef28db6-c3ca-4e0f-959a-18282c01220d,neutrality.ryukyu,available,22.98,,high,low,10,namecheap,,,
+eef28db6-c3ca-4e0f-959a-18282c01220d,neutrality.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,29/09/2026 15:55
 83b5fec9-73a3-4fc9-9e94-74bfb8cf97e2,sidewalks.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,21/09/2026 06:21
 f55a7d3b-0af6-40c8-bd8a-68c104c0196c,drink.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,28/09/2026 06:05
 6c6bd117-cc47-4d5a-bb92-f8442d6323f2,pine.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,28/09/2026 02:55
@@ -233,42 +336,52 @@ a5d81be4-5856-4738-92b7-0434bd0137b4,baba.ryukyu,available,17.98,22.98,high,low,
 a13696d0-55ae-4c14-a056-84833a59fd62,appreciative.ryukyu,available,22.98,,high,low,12,namecheap,,,
 3d4c5f2d-a1e6-4f2d-ad9c-4638810c8fbf,balladeer.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,21/09/2026 22:45
 0cefaecc-176d-4586-881a-77636c6e8564,noble.ryukyu,available,22.98,,high,low,5,namecheap,,,
+f0b16ff6-0c2e-4f87-b746-5da341877fed,oasis.ryukyu,available,17.98,22.98,high,medium,5,namecheap,,,29/09/2026 07:10
 ecf1e78e-e701-43a1-ba7f-5bc7da734a9d,harm.ryukyu,available,22.98,,high,low,4,namecheap,,,
+16d73043-dcc7-4b0a-b7d2-731f1ad7f038,lotus.ryukyu,available,17.98,22.98,high,high,5,namecheap,,,29/09/2026 06:44
+d8b47ecd-f2e9-4b59-ab9d-3f5a1b66f083,nashua.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,29/09/2026 22:37
 d487b58a-ca6c-4012-b4c4-c264b74b2a0e,debate.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,24/09/2026 05:29
 51c565e8-d5f1-4bb5-b236-14ad7122faf1,spends.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,28/09/2026 08:36
-2a4a8c9d-749c-4a56-a37a-088840df4201,damascus.ryukyu,available,22.98,,high,low,8,namecheap,,,
+2a4a8c9d-749c-4a56-a37a-088840df4201,damascus.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,29/09/2026 07:02
 ffbcdb1c-26f5-44ad-9199-8e426026b9dd,valentine.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,26/09/2026 00:29
 6e6c73e2-2e92-4f07-b349-3ac3e47d7c46,mild.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,25/09/2026 18:55
 9d5a95d7-3274-4707-8737-f85bb2b66e20,samantha.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,27/09/2026 07:25
+a9fcfc01-eb02-417c-9185-b8c43c8682d4,passion.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,29/09/2026 05:44
 0541e3fa-f8bf-4231-9453-73b2fe005230,ascot.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,20/09/2026 13:27
 7d877fe7-4e0e-4014-b9d5-b27efc03b618,emblazon.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,24/09/2026 05:09
 43b76eee-f0ee-4c95-88d7-f679e3f43ecf,olivia.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,28/09/2026 07:43
-a8a4f279-8172-4e6b-b802-8280d5083dbe,advanced.ryukyu,available,24.99,31.99,high,low,8,name.com,,,21/09/2026 20:46
-123ff42d-dbc1-4c7d-9616-00b10838bf60,campaigner.ryukyu,available,22.98,,high,low,10,namecheap,,,
+a8a4f279-8172-4e6b-b802-8280d5083dbe,advanced.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,28/09/2026 20:47
+123ff42d-dbc1-4c7d-9616-00b10838bf60,campaigner.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,29/09/2026 06:13
 50f4541d-9d09-4d26-95b4-04e663fdadd6,say.ryukyu,available,22.98,,high,low,3,namecheap,,,
-29931118-f1e8-47be-ae30-c20ba67d3916,scientist.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,25/09/2026 04:30
+d37a6d11-6c0b-475f-aef9-5950a01bed5c,darmstadt.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,28/09/2026 22:04
+29931118-f1e8-47be-ae30-c20ba67d3916,scientist.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,28/09/2026 12:32
 b94837c8-125f-417d-8463-73b24dafc7cf,sesotho.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,22/09/2026 13:00
 2138a2f4-de7c-4512-a019-225367d438c3,wolves.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,28/09/2026 04:21
 831f1db0-56b9-44ab-b387-f88fc7fefd72,favoritism.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,24/09/2026 22:35
-781d10e3-63cb-46c5-80b2-25bb7296b57e,allium.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,18/09/2026 11:13
+781d10e3-63cb-46c5-80b2-25bb7296b57e,allium.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,18/09/2026 11:13
 8f6c2f60-fd5a-4211-8ee2-ba4cf0504112,mining.ryukyu,available,22.98,,high,low,6,namecheap,,,
 afd10d69-ab09-4586-bcf2-0e6b80c0e2b4,aston.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,28/09/2026 07:29
+d9a53454-08ba-42c2-b6a4-e692b99d1232,independently.ryukyu,available,17.98,22.98,medium,low,13,namecheap,,,29/09/2026 14:31
 64718c57-deaf-4d94-8699-4d889cb46a2c,clique.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,24/09/2026 15:47
 f9037e1b-e627-4999-b274-4f674497b445,hans.ryukyu,available,22.98,,high,low,4,namecheap,,,
 93c0de66-cec5-40fc-b048-235feace8840,zombi.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,21/09/2026 07:04
 21d8cf14-3902-40ee-9ed8-74de3dfb4e0e,singer.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,25/09/2026 23:13
 d39e9957-385d-41b7-9061-7dea558cfce3,allie.ryukyu,available,24.99,31.99,high,low,5,name.com,,,17/09/2026 22:42
+8aad7173-e6e5-4ebe-8e03-39851e6c574d,saga.ryukyu,available,17.98,22.98,high,medium,4,namecheap,,,30/09/2026 02:45
 5d047453-e1ec-4041-8b53-06b8333d5242,producing.ryukyu,available,22.98,,medium,low,9,namecheap,,,
 12054222-45e6-4e32-b755-3b78b0d791bd,urbanely.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,16/09/2026 10:27
+aa017d71-dae5-4562-93e6-47d97e22995e,recruit.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,28/09/2026 14:02
 2ac6f87d-f97e-4f2b-86a6-d1c67aad600a,backing.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,21/09/2026 15:39
+56e14c41-41b1-4272-b255-d2c34c1458c5,making.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,29/09/2026 14:44
 d9a13674-ecdd-4ad9-a833-5accb56b3f4c,mannerly.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,24/08/2026 15:20
 b6de1c9f-4fd5-49cb-8407-e5b2e5076a86,instructed.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,28/09/2026 04:56
 9825ed86-bcde-49d0-81d5-23f46ab302a1,singletree.ryukyu,available,22.98,,medium,low,11,namecheap,,,
-95a0a6dd-b802-4808-a9ac-7a18acb70970,recommend.ryukyu,available,22.98,,high,low,9,namecheap,,,
+95a0a6dd-b802-4808-a9ac-7a18acb70970,recommend.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,28/09/2026 19:07
 6e956ac0-c8ea-4223-8878-659a42d3631e,brad.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,24/09/2026 07:52
 906620e6-01b8-450e-a3de-5f4972388967,beefy.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,09/08/2026 07:49
 8c2efca4-5186-42b7-b903-b70c55fbcab3,actinic.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,
 bc254c06-40e7-4270-888c-6712339ba669,mcmuffin.ryukyu,available,22.98,,high,low,8,namecheap,,,
+3bf37958-a72e-4e37-9ab6-416d5f515802,james.ryukyu,available,17.98,22.98,high,medium,5,namecheap,,,29/09/2026 18:17
 26cd3591-287d-4e32-b758-df0e7e8d9c6a,valmy.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,22/09/2026 16:13
 f69cde5c-1002-423c-a0c8-94d091271eb5,unaltered.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,12/09/2026 00:30
 87b33582-d1b1-4a16-bd9b-911d146c3cc7,reno.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,28/09/2026 06:40
@@ -276,19 +389,19 @@ f69cde5c-1002-423c-a0c8-94d091271eb5,unaltered.ryukyu,available,17.98,22.98,medi
 05286aa2-0a47-4af5-925d-3625c9d30e58,wired.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,27/09/2026 08:11
 ca79b200-8824-4d53-a296-ea2792629466,ketosis.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,17/09/2026 00:11
 7f53260f-0a88-4c5a-980f-dd7d39c6957b,fatah.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,18/09/2026 00:27
-ce9d874f-9190-4580-b994-f413f0f16a1e,decatur.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,27/09/2026 03:44
+ce9d874f-9190-4580-b994-f413f0f16a1e,decatur.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,27/09/2026 03:44
 b3210aa6-88f6-491e-82d8-9e869871983e,bercy.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,23/09/2026 09:16
 ba9058ce-9a32-4e9b-a0c1-8c7f25213298,federal.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,24/09/2026 17:28
 4a137786-fb55-47ff-a2af-70fe92c532ce,arriving.ryukyu,available,22.98,,medium,low,8,namecheap,,,
 8bd448a6-2336-47b9-857c-4f32b1e46a15,organs.ryukyu,available,22.98,,high,low,6,namecheap,,,
-a3a012f4-b2fe-4c6b-812d-42644276780a,medicine.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,25/09/2026 22:51
-3b7525ce-e8e4-4395-94fb-3bf2b3225f4d,assisted.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,21/09/2026 23:41
-3d02954e-d12b-4859-a2d3-e5aa08d79876,eliot.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,25/09/2026 05:27
+a3a012f4-b2fe-4c6b-812d-42644276780a,medicine.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,28/09/2026 15:30
+3b7525ce-e8e4-4395-94fb-3bf2b3225f4d,assisted.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,28/09/2026 23:42
+3d02954e-d12b-4859-a2d3-e5aa08d79876,eliot.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,25/09/2026 05:27
 9cef9d36-ae24-47ab-90ba-5eed525017e6,hillary.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,27/09/2026 03:48
 09617b92-84b1-49ee-85a3-29a9d5802a3f,rush.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,24/09/2026 18:44
 e9b9b5ea-6994-4241-8321-d507c887c156,apocynum.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,19/09/2026 18:15
 aa633750-c95f-49d1-b0d3-71483f101ee8,argus.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,20/09/2026 04:53
-0b986fbb-c769-4cba-8904-a29bd534b769,nearer.ryukyu,available,22.98,,medium,low,6,namecheap,,,
+0b986fbb-c769-4cba-8904-a29bd534b769,nearer.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,28/09/2026 14:02
 ffb88a94-3d5b-4b30-aacf-b36677739ab1,licenced.ryukyu,available,24.99,31.99,medium,low,8,name.com,,,21/09/2026 15:56
 6d94e7e4-33bc-4b18-bb35-e3c0abca4006,banshie.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,22/09/2026 03:10
 2884293b-e577-4a85-97b6-6190d989e4de,rig.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,20/09/2026 11:18
@@ -301,19 +414,28 @@ f82650b2-4414-45b7-a3a0-8ad11b12a17f,edmund.ryukyu,available,17.98,22.98,medium,
 ce92a923-d8ca-4563-8722-1d430758b2f2,kyle.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,25/09/2026 12:33
 4907722b-292e-44de-beb2-b8a507b4bcd7,favour.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,25/09/2026 05:51
 165a5cca-1e02-4175-b86b-3fe173fe0dcb,cheaper.ryukyu,available,17.98,22.98,low,low,7,namecheap,,,28/09/2026 08:27
-8fce2d70-c71a-4850-aadb-c65e53a30b47,shoal.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,10/09/2026 05:46
+8fce2d70-c71a-4850-aadb-c65e53a30b47,shoal.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,10/09/2026 05:46
+e46e1acc-346f-4c89-b4af-950ba3878817,minimize.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,29/09/2026 20:40
+7315e582-b724-4375-b6e6-bf76bc563773,doubted.ryukyu,available,17.98,22.98,low,low,7,namecheap,,,29/09/2026 16:14
+f35f4b72-ef6c-42dd-8a09-bd1ec5773967,pornography.ryukyu,available,17.98,22.98,medium,low,11,namecheap,,,28/09/2026 12:37
 1984bf64-e77e-463b-9bc8-ed529f18c368,begonia.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,23/09/2026 02:28
 1c8c15b4-6dc1-4ed6-8cfa-3655701db970,addled.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,
 d53998ab-6d9c-4997-83e0-db3b367dd698,pills.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,20/09/2026 04:26
-09931951-ac12-49db-8a8a-07432bc9533b,ben.ryukyu,available,22.98,,high,medium,3,namecheap,,,
+e4027426-aadc-441f-b533-572a124dd7d6,accelerate.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,29/09/2026 02:40
+09931951-ac12-49db-8a8a-07432bc9533b,ben.ryukyu,available,17.98,22.98,high,medium,3,namecheap,,,29/09/2026 02:04
+054690ba-7abd-4a80-9b4b-5dde83a9f426,aspirations.ryukyu,available,17.98,22.98,low,low,11,namecheap,,,29/09/2026 23:55
 2e2c3d09-4799-453a-a671-96f72a435b07,remembered.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,17/09/2026 12:03
+893e7f06-9d38-4530-91de-9580efc4fb5f,vladivostok.ryukyu,available,17.98,22.98,high,low,11,namecheap,,,29/09/2026 15:13
 1105a517-bca9-411f-b3da-9168bee7d8cc,mallory.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,28/09/2026 04:03
 e7a7cd4d-324e-4dfe-a0f7-f7c99a24b679,susanna.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,28/09/2026 01:02
 a364b7fd-db93-4bc1-9572-93de4addeea4,sherwood.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,25/09/2026 10:26
+d7612e8b-151e-440d-aec8-64258b7deabf,allan.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,28/09/2026 16:24
+3964c0ff-9651-451f-bff2-eb860fb49472,lakes.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,29/09/2026 09:25
 7057836a-c616-4b1f-b0e9-9f2e32515155,have.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,26/09/2026 03:37
 a9a284cd-24c3-443e-bc6a-ec6b1aed6327,gracie.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,18/09/2026 10:48
 ce5b6796-5393-48f8-8b8f-4482a0725669,deception.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,24/09/2026 17:22
 a4709337-27f5-40c7-a113-97ac962f2c37,intrepid.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,22/09/2026 12:24
+c02097d0-eb39-47fa-a9fc-5ee785aa1fe0,gaylord.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,29/09/2026 03:38
 649e0c1e-45b3-43ec-91bd-63e3ff9a52f3,appointee.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,19/09/2026 21:58
 f426c94f-e6dd-43a6-b2e3-4ae462158734,possessed.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,28/09/2026 03:28
 23afb8ea-6876-4ccb-ad4b-e1279f49a9d3,apologist.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,19/09/2026 18:45
@@ -322,16 +444,26 @@ c8530540-e339-4a7c-956e-080bc3e59a4c,audrey.ryukyu,available,17.98,22.98,high,lo
 82ad39ef-7627-4aa5-8496-91161f99818e,johnstone.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,27/09/2026 23:26
 0f1f4d38-dcbe-4d71-9abb-13b8c0109036,question.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,25/09/2026 10:22
 2bf8e7eb-6b8e-4a08-ba2c-37bb2be5980d,killer.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,24/09/2026 13:14
+cf7b877e-b8f6-4327-9b92-13152521a3cd,sculptor.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,30/09/2026 02:48
 693841c0-02dd-4086-83cf-4dcb2b8fbf99,conjunction.ryukyu,available,22.98,,high,low,11,namecheap,,,
+05dae103-9eb2-4753-a2ad-9253e82666f6,abducted.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,29/09/2026 05:02
 1db9bdbf-2bef-42df-8f0b-60051ed79147,romaic.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,09/09/2026 18:25
+832ff73f-0d96-4068-8a28-523d2c920bbc,reproduction.ryukyu,available,17.98,22.98,medium,low,12,namecheap,,,29/09/2026 15:58
+4023ba96-9cfb-4b1a-94c5-fed78c3ce5b8,temples.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,29/09/2026 15:51
+2c78e7e2-ba71-4f22-a68a-49e753a3bf0c,kitten.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,29/09/2026 07:25
 7d141396-31ac-42a7-8019-245cdebc52cc,combinations.ryukyu,available,17.98,22.98,medium,low,12,namecheap,,,17/09/2026 17:12
 c7d28b17-afdd-465e-b19a-3dd967a37d6c,due.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,22/09/2026 09:27
-57b14dd9-da82-44d1-80f0-f64aac2cce32,coast.ryukyu,available,22.98,,high,low,5,namecheap,,,
+57b14dd9-da82-44d1-80f0-f64aac2cce32,coast.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,29/09/2026 10:10
+42269ae7-0ee5-4e66-af03-8145b998d61e,minors.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,29/09/2026 18:08
 c795c742-4397-4a3f-a9f7-7e9673134c0d,binge.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,23/09/2026 17:18
-c5b45004-65b2-4511-8eeb-ffb8b868617d,iphone.ryukyu,available,22.98,,high,high,6,namecheap,,,
+c5b45004-65b2-4511-8eeb-ffb8b868617d,iphone.ryukyu,available,17.98,22.98,high,high,6,namecheap,,,29/09/2026 02:15
 8afc52a7-0828-4c62-8f47-b11384239fd7,forgot.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,27/09/2026 21:47
+3a08979b-29a8-4588-abcc-490e24e20339,shea.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,29/09/2026 22:15
+1c3ef84d-0ff9-4b3e-9c8d-41705eb51dda,outskirts.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,29/09/2026 19:53
+a16dec5b-d4da-42e2-80e0-ca7a9b6eea17,despair.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,28/09/2026 09:31
 b0cd3eea-8001-4dc1-843d-03b534eab223,son.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,25/09/2026 09:05
 b2cb3dae-a533-4159-a298-753e35a1ad90,airspace.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,17/09/2026 22:49
+96282495-8d10-416d-ac67-396da11d2fc1,disco.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,29/09/2026 15:27
 e977da4b-25ec-4bc5-ad77-6a0319aa3f59,sunhat.ryukyu,available,22.98,,high,low,6,namecheap,,,
 eebe7b48-f66d-476c-b9e8-228e5c82f128,doll.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,25/09/2026 04:37
 62b01db7-b608-4c1b-bcf6-ca8c11f6b187,outdated.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,26/09/2026 03:15
@@ -347,53 +479,63 @@ c1d6391f-2e3f-4a47-8a3b-0176b54d24b3,adjunction.ryukyu,available,17.98,22.98,med
 0f6f963b-1531-4e04-92b2-b7c24b7d544f,tours.ryukyu,available,22.98,,high,low,5,namecheap,,,
 5192c618-543b-4b37-830f-b36c28df0998,hung.ryukyu,available,17.98,22.98,medium,low,4,namecheap,,,27/09/2026 08:46
 56fe48fe-196f-4017-b460-54c6b8c08407,scallion.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,18/09/2026 11:26
+38b4f092-bec2-4ea5-a596-e9f447091c39,filming.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,29/09/2026 09:15
+2461aa16-95d0-4b3b-8c1b-782f2f11920f,frontier.ryukyu,available,17.98,22.98,high,medium,8,namecheap,,,28/09/2026 09:50
 d14b57a8-4fed-4e1f-a0ca-5d9fd9a3b087,humanoid.ryukyu,available,17.98,22.98,high,medium,8,namecheap,,,19/09/2026 04:56
 629f2a2c-f2b6-4943-be63-511ab47b5f7f,paternal.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,
 533fdd6a-c204-4925-980e-c2556c4aef99,phial.ryukyu,available,24.99,31.99,medium,low,5,name.com,,,18/09/2026 23:47
 6c6e1071-862c-4580-b5b5-9d3858da23e5,cruise.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,24/09/2026 19:51
 ae145678-2535-48b3-81a2-3d01a25f2026,prate.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,23/09/2026 23:29
 310ad13d-b1fd-47c7-9ee3-adcfbdf29aaa,typed.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,17/09/2026 22:44
+3b7d64e4-b76c-4cd8-a4ab-4acb731c4f7f,este.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,29/09/2026 15:17
 8e958616-44c1-4c32-a2c2-12527442786a,impala.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,17/09/2026 12:44
+6d11da1b-e711-4901-b136-a2a0d58f49dc,housekeeping.ryukyu,available,17.98,22.98,high,low,12,namecheap,,,29/09/2026 10:23
 d2f838de-d3f1-4585-84a2-860d5742dbc4,followed.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,25/09/2026 17:12
 89cf6532-ffa5-436c-a7ff-eb4295ceacd7,ballistic.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,08/08/2026 10:31
 defca066-4747-4057-b24a-4c4a73ae6db3,beira.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,23/09/2026 04:20
-d3d73719-b551-4f44-90bc-1f4d978e2a69,baguette.ryukyu,available,22.98,,high,low,8,namecheap,,,
+d3d73719-b551-4f44-90bc-1f4d978e2a69,baguette.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,29/09/2026 00:33
 240ed5a6-bc7e-4244-8112-95688208a4fd,vladimir.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,25/09/2026 14:40
 804a8be3-e24e-44c7-a3e0-ccc7e6629a26,hardship.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,17/09/2026 10:51
 c613cd8f-8739-46f6-b1bd-7bb672cfd90d,amanita.ryukyu,available,24.99,31.99,medium,low,7,name.com,,,18/09/2026 15:43
 fc25d4b6-8689-4cd0-a47f-f5fa95c2effd,fading.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,21/09/2026 01:33
 83a6e6c8-e890-47a4-92e7-9e067d118c61,sunbeam.ryukyu,available,22.98,,high,low,7,namecheap,,,
-f0f26a39-5826-463c-81cb-e67b7c6e1bb6,knows.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,25/09/2026 02:31
+f0f26a39-5826-463c-81cb-e67b7c6e1bb6,knows.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,28/09/2026 10:33
+2cb4afe2-ecb4-4164-add3-2bf4267b185e,bravo.ryukyu,available,17.98,22.98,high,medium,5,namecheap,,,28/09/2026 22:45
 6d836319-82a8-4473-bded-a81fe1d7764f,charlie.ryukyu,available,17.98,22.98,high,medium,7,namecheap,,,25/09/2026 18:14
 96a7f044-0e69-4856-9f47-95acc7026cfe,poignant.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,
+75767528-e288-468b-992d-61d5daa93f03,bargain.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,29/09/2026 01:09
 76a91988-77a5-4243-a5a4-f061ef2b116d,tel.ryukyu,available,22.98,,high,low,3,namecheap,,,
 7affaecf-42d3-4631-bb95-94d2775313ad,constants.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,21/09/2026 01:13
 e27c877e-6469-4e94-8ce8-9d78e2f3a84e,washer.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,21/09/2026 06:54
 2d8dc0b4-8111-412d-8030-770d1676e99a,hobbs.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,27/09/2026 04:26
 10ef7902-56ee-47db-a4cf-af80726fa0b4,blacken.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,10/08/2026 11:10
+05c6ca59-5de5-4dae-a962-a026b1db66d8,saturn.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,29/09/2026 13:55
+e4571ece-f17f-4ca5-9b90-d2461172b237,california.ryukyu,available,17.98,22.98,high,medium,10,namecheap,,,29/09/2026 05:55
 236457f3-dcdc-43a4-9cc0-fd13d84c7107,arborvitae.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,20/09/2026 00:54
 38680abb-956b-45d7-9f3c-26ffec067fd6,writes.ryukyu,available,24.99,31.99,medium,low,6,name.com,,,17/09/2026 14:27
 c016c2c9-229a-4a18-b7ca-0f4e354c51e0,silicon.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,20/09/2026 22:24
 f50dd6d9-4d32-41ec-945c-cb26dde90451,extinct.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,17/08/2026 19:11
-e836cab4-2c32-46e1-ac5c-6733c9148818,mortal.ryukyu,available,24.99,31.99,medium,low,6,name.com,,,13/08/2026 19:33
+e836cab4-2c32-46e1-ac5c-6733c9148818,mortal.ryukyu,available,24.99,31.99,high,low,6,name.com,,,13/08/2026 19:33
 368afb1e-c4d0-4fe3-9bd2-9bc44c8c67cd,rivals.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,20/09/2026 05:05
 2c6c0d15-70e6-47c3-b1ee-12d01753f488,balaclava.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,21/09/2026 20:27
 ec6e6d8a-b3cc-436d-9727-99159e5f5607,vegetables.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,16/09/2026 12:36
 9dcdb015-759a-43cf-8c71-8361c0bc58f2,loos.ryukyu,available,17.98,22.98,medium,low,4,namecheap,,,17/09/2026 09:32
 3a6a9584-836f-425e-bcb1-d9a40fc4eca2,frequency.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,16/09/2026 17:49
+18f2ab74-a0f9-4713-b7f4-54d2e8024a79,marlowe.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,28/09/2026 18:43
 df7c6ee0-3250-451f-8291-c651839e2a19,breath.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,24/09/2026 10:14
 06176b09-9929-45ab-9fa9-149bb06efa23,shiatsu.ryukyu,available,24.99,31.99,high,low,7,name.com,,,17/09/2026 05:40
 d719faa5-1baa-49b6-b2b5-3ab811aa97bc,consuming.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,23/09/2026 21:22
-4760db87-c40d-456c-8a83-22c64695ea7c,diplomat.ryukyu,available,22.98,,high,low,8,namecheap,,,
+4760db87-c40d-456c-8a83-22c64695ea7c,diplomat.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,29/09/2026 15:06
+ea3f5a78-6e52-4adf-8ee4-9a4e4b95f79f,patron.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,28/09/2026 14:14
 dcab2403-d50b-4392-b881-173839264f5e,abbey.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,16/09/2026 14:25
 e214ad45-953d-4e4e-b102-d1ec9016c74e,afrl.ryukyu,available,17.98,22.98,medium,low,4,namecheap,,,17/09/2026 15:27
 2019b314-ffd9-42cd-a6d0-53dc716632af,blastema.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,24/09/2026 04:21
 910b7d49-8399-4945-9893-bdc96a99ca26,expand.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,24/09/2026 13:38
 bc362bc4-b908-47e9-ba00-ac62d09df6f7,lowell.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,16/09/2026 14:32
 36ef0491-6ff0-4049-8c80-6175777ee59b,stacy.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,28/09/2026 07:44
-bb9ec04c-ffc1-4a22-a5eb-457065659563,theorise.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,24/09/2026 17:20
+bb9ec04c-ffc1-4a22-a5eb-457065659563,theorise.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,24/09/2026 17:20
 8f37521f-6c1a-4e61-a3a9-f931f20bc22b,clever.ryukyu,available,17.98,22.98,high,medium,6,namecheap,,,23/09/2026 12:20
-d6202a47-6c1d-4c6f-b577-fec92aaccec7,watermelon.ryukyu,available,22.98,,high,low,10,namecheap,,,
+d6202a47-6c1d-4c6f-b577-fec92aaccec7,watermelon.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,29/09/2026 09:31
 df012d04-6732-45ea-b287-bf9718609018,severe.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,22/09/2026 13:18
 b4c276aa-b9bc-4dfb-afbe-ded3c2af7834,celsius.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,19/09/2026 04:00
 8c0759b3-6922-41b1-bc1b-2f21e4616a39,isabelle.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,28/09/2026 07:42
@@ -404,7 +546,8 @@ e1625b78-f9e5-4173-a637-19bcba68840f,warmer.ryukyu,available,17.98,22.98,high,lo
 145ecddd-ea93-480f-8fdd-40693db6ef5a,atkinson.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,25/09/2026 17:41
 e4849918-591b-4d93-ab03-6f69c8661a25,recognized.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,21/09/2026 15:28
 5430fd9a-8bf4-4f40-9f7c-bb754ad030fa,seventy.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,
-179450d4-1fce-4ad5-894a-e8c54ecdd6d8,fee.ryukyu,available,22.98,,high,low,3,namecheap,,,
+179450d4-1fce-4ad5-894a-e8c54ecdd6d8,fee.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,29/09/2026 05:24
+47e8b29d-a4cf-434c-85f0-f0a85f506cd6,belknap.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,29/09/2026 15:05
 e37a8f95-1772-432e-ae5d-09bd20107b4a,absorbent.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,
 6fe0d8a0-f86f-4351-857c-c5ea8f7c83a2,sousaphone.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,22/09/2026 11:51
 1ac2c777-be37-4c91-96f9-2a463c8d7e79,bandbox.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,22/09/2026 01:01
@@ -412,45 +555,70 @@ e37a8f95-1772-432e-ae5d-09bd20107b4a,absorbent.ryukyu,available,17.98,22.98,high
 367f85b9-97e6-4aeb-9a88-a45c46698ddb,warm.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,21/09/2026 21:51
 e3a7cc37-bf70-4c83-bf76-a3ac3c0fe57f,arrangement.ryukyu,available,17.98,22.98,high,low,11,namecheap,,,27/09/2026 21:23
 6447680c-db22-4537-bf0c-ba1051055a21,networks.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,19/09/2026 17:41
-1635e514-4882-4ab3-bb77-1e1c88ff65e8,may.ryukyu,available,22.98,,high,low,3,namecheap,,,
+3358a6c4-edf7-4c94-b575-bf17a9358688,koreans.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,29/09/2026 17:32
+1635e514-4882-4ab3-bb77-1e1c88ff65e8,may.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,29/09/2026 11:57
 7259ec9b-1947-460a-91aa-2176c58ff735,abides.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,18/09/2026 17:00
 4a53a664-9d69-43de-a6a5-cc750e29471d,hostel.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,21/09/2026 02:25
 44649fbf-ca10-488a-b079-52f4a85e613f,zagreb.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,28/09/2026 06:54
 cb5f21b6-8bf9-4a3b-8679-8045390922e5,redstart.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,18/09/2026 20:37
+95d609d8-1520-4dbf-99e3-875fa14fe3fb,leyte.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,29/09/2026 01:34
 6f40a50c-a3bb-4090-b279-cadbf2997279,burnt.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,23/09/2026 11:41
+b1abff84-8dc8-4707-acc2-ca518f21e8cb,send.ryukyu,available,17.98,22.98,high,medium,4,namecheap,,,29/09/2026 04:28
 61bcaab1-b2f6-4210-b892-8762ec74739e,ads.ryukyu,available,22.98,,high,medium,3,namecheap,,,
+29d48745-d047-45bf-92f7-8fe5be215d4b,convoy.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,28/09/2026 13:45
 c9bb90e4-a1a2-4e05-8391-b8b133a6da9f,chickenpox.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,24/09/2026 14:28
 890af106-38cf-44c0-b440-6b50a5fe1463,cellar.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,22/09/2026 10:16
+16a913d8-e1de-4027-8d0a-893f5b726e2b,hou.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,29/09/2026 10:03
+b0261497-ea6e-413f-be0b-f6efa5d51906,pickle.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,29/09/2026 06:57
 a64d5692-cbde-4d81-af95-f5a58d178602,roofs.ryukyu,available,22.98,,medium,low,5,namecheap,,,
+c3a1fa70-5fa7-4a90-80cc-153e224c7db1,mira.ryukyu,available,17.98,22.98,high,medium,4,namecheap,,,28/09/2026 16:25
+bfc352d8-c3ec-41f8-a761-fe8c07dd744f,confrontation.ryukyu,available,17.98,22.98,low,low,13,namecheap,,,28/09/2026 17:10
 bae998ea-97dd-40c6-bae3-e72f0a701f95,dash.ryukyu,available,33.99,33.99,high,medium,4,godaddy,,,28/09/2026 01:44
+4e9eebaf-e3ba-4be7-9542-b7a5de6d472d,patty.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,28/09/2026 20:09
 9b877f57-ef9b-42b4-8e2c-3f029bf7907a,btu.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,21/09/2026 11:58
 9f775f36-1ca5-4989-8152-7d8f4eaeed24,carat.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,24/09/2026 12:45
+9897d849-867f-4e9b-b6c1-d09f85fb279f,frustrating.ryukyu,available,17.98,22.98,medium,low,11,namecheap,,,29/09/2026 14:46
 d5ba0da5-0de3-49b6-9521-c234103e495c,occupied.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,17/08/2026 07:34
-e109a139-196a-4502-9f1f-46e6b43730e2,allergy.ryukyu,available,22.98,,high,low,7,namecheap,,,
-83103f47-5a86-44b7-941f-429751dca768,pan.ryukyu,available,22.98,,high,low,3,namecheap,,,
+f3cdd9f3-f5cc-4a27-befa-2213dc904b0d,delivers.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,29/09/2026 10:50
+e109a139-196a-4502-9f1f-46e6b43730e2,allergy.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,28/09/2026 20:29
+f62d3810-e4c8-4f33-9fb0-547511566c18,steals.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,28/09/2026 23:24
+d6e3c9a8-af07-4d43-a203-64c01938d14a,recorder.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,28/09/2026 09:46
+83103f47-5a86-44b7-941f-429751dca768,pan.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,29/09/2026 11:32
 7a8e1dcf-8d83-4993-b9e0-6026f7f130b5,muntjac.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,22/09/2026 06:28
 77aeec4a-bc04-459b-b281-42d3f3d225f2,mature.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,24/09/2026 19:39
-b5ec1cbd-6ba7-4ecf-8249-5e4289065917,affidavit.ryukyu,available,22.98,,high,low,9,namecheap,,,
+b5ec1cbd-6ba7-4ecf-8249-5e4289065917,affidavit.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,28/09/2026 19:16
 4488793d-4356-4867-b259-0713e9041b72,conserve.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,24/09/2026 17:27
+d7e90b6c-a22a-4921-85e4-7b475cda99de,vibe.ryukyu,available,17.98,22.98,high,medium,4,namecheap,,,29/09/2026 02:29
 c4f3d671-ef17-449a-867d-b8ae762e802d,occurring.ryukyu,available,22.98,,high,low,9,namecheap,,,
 ba025892-d6e2-46d0-9c3a-653b96459a06,apulia.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,19/09/2026 22:42
+ae5c6e9e-a7ca-4cb8-9b8d-576facc9c6b0,simpson.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,29/09/2026 17:02
 944c7575-244c-4a93-85f9-9078e4e0fff3,whenever.ryukyu,available,22.98,,medium,low,8,namecheap,,,
+140e8e51-644f-4698-a5b4-12496d7f57e2,ruler.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,28/09/2026 10:51
 24e57e17-187e-438f-bdad-5fb692faeb0a,piffle.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,21/09/2026 21:41
-0d525e38-ee4a-467f-9643-e53b1e42e0bb,fitzgerald.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,25/09/2026 05:15
+aa7597ca-d22a-402f-9d93-99e770d7d62b,raven.ryukyu,available,17.98,22.98,high,medium,5,namecheap,,,28/09/2026 09:27
+0d525e38-ee4a-467f-9643-e53b1e42e0bb,fitzgerald.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,25/09/2026 05:15
 eb4e9a3b-90a6-4047-bf7d-98a56a6dbd7b,wipe.ryukyu,available,24.99,31.99,high,low,4,name.com,,,27/09/2026 16:23
 1a918f00-434c-4433-9135-8122c23a9f11,computer.ryukyu,available,17.98,22.98,high,medium,8,namecheap,,,28/09/2026 08:32
 61c78841-1241-4f58-b64c-2b182a8f0c53,sweep.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,24/09/2026 10:48
 b1e61ca0-4212-4068-8ae6-878b80c2ec96,pondered.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,18/09/2026 02:08
 eba3b3d8-f670-478e-8868-f6d771de5447,escort.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,24/09/2026 06:34
 209414ce-b8bd-4fa0-a738-05e316aa94fa,linux.ryukyu,available,17.98,22.98,high,medium,5,namecheap,,,25/09/2026 23:27
-b437e860-1381-46c8-b1bc-7dbf6818ced5,babe.ryukyu,available,22.98,,high,low,4,namecheap,,,
+624f06c3-7d1b-42f9-8507-dadf9020b286,weeds.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,29/09/2026 08:19
+b437e860-1381-46c8-b1bc-7dbf6818ced5,babe.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,29/09/2026 00:05
+7d3a92c3-1d0b-455d-ae64-f413bcfee7f6,cordova.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,29/09/2026 11:58
 687bec98-586c-485b-87ff-ce883cb56615,rude.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,22/09/2026 16:12
 b5a864e9-4679-475c-a81f-bf27c19c13a6,truncheon.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,23/09/2026 16:38
 edf619f5-578d-431f-94ab-ee62dce785b5,anesthetic.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,
+ecf3be1f-8dee-4c56-91f0-4fdd3b3e309f,announce.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,29/09/2026 22:10
 cec40111-6bcc-40bb-ad6d-493a585a7be2,interstate.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,25/09/2026 10:24
 9f3ff447-0f2d-451e-823a-fc7b14c5c4ef,head.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,23/09/2026 14:18
+d755ef81-1d8f-4dd4-b6c3-1c179cd41f61,configuration.ryukyu,available,17.98,22.98,medium,low,13,namecheap,,,29/09/2026 10:14
+83edfef9-bcbf-4d56-9653-907cf0371907,quarters.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,30/09/2026 03:03
 f6404dd8-c3a5-454b-977e-2ccc22ad197f,granville.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,27/09/2026 01:40
 6e68a293-589c-4134-b381-6503108b6684,apogamy.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,19/09/2026 18:27
+4fd770d0-7e4d-47e6-bc01-a0bf63246bdd,parrish.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,28/09/2026 14:51
+ae489678-58c3-4451-9e5f-961da6b620d7,imitate.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,29/09/2026 14:14
+47a71410-7ec2-46c9-8f6d-6d810a994203,encryption.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,29/09/2026 18:46
 8b076b2a-bc55-4717-a055-50e74e008e71,served.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,25/09/2026 17:23
 ba7b7b26-26f4-41f5-abdb-a04b5a672de3,pensacola.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,25/09/2026 23:59
 72c23972-8301-455d-88b9-6f389c01461d,middletown.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,27/09/2026 21:20
@@ -459,39 +627,60 @@ ba7b7b26-26f4-41f5-abdb-a04b5a672de3,pensacola.ryukyu,available,17.98,22.98,high
 565ad23c-6e85-4bda-962f-89d3a1c07e21,prompts.ryukyu,available,24.99,31.99,high,medium,7,name.com,,,20/09/2026 08:06
 23c09a06-91a5-4962-989c-c52bd4040c93,champion.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,21/09/2026 17:32
 cd2ae318-cc9f-4290-b49d-32fd62833efb,lxxxii.ryukyu,available,22.98,,medium,low,6,namecheap,,,
+124b76f9-b68c-4fc7-9eed-7e357b425dab,montclair.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,29/09/2026 04:37
 b48a9211-8964-4900-b1a3-8732fad1cfd5,make.ryukyu,available,17.98,22.98,high,medium,4,namecheap,,,27/09/2026 10:16
-af38b99c-6e45-426e-a202-1b8f748eaf01,schweitzer.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,18/09/2026 02:40
-25d1f3e0-3a3c-4db4-9c86-7b839273341d,bluish.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,22/09/2026 22:47
+b5584b87-19a1-4328-937c-9fe61e566366,issue.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,29/09/2026 11:12
+af38b99c-6e45-426e-a202-1b8f748eaf01,schweitzer.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,18/09/2026 02:40
+56a8fec8-b968-4cf2-847e-53e0ce31a97e,una.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,29/09/2026 14:42
+25d1f3e0-3a3c-4db4-9c86-7b839273341d,bluish.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,22/09/2026 22:47
 fef61234-f09f-4fc7-9284-d5558b29afe8,bard.ryukyu,available,17.98,22.98,high,medium,4,namecheap,,,22/09/2026 05:09
 59084504-27ca-4d3d-8fbd-ccc3ca394c0f,skilful.ryukyu,available,24.99,31.99,high,low,7,name.com,,,21/09/2026 17:29
+672ee957-2c29-4f88-999b-d80df86c8cfc,jiangsu.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,29/09/2026 09:39
+521f71a0-3ed0-4983-baa2-f8d865db7abf,dumping.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,28/09/2026 13:56
 be9d126d-78d0-473c-9078-47fb3d2c4f06,tenderness.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,17/09/2026 14:18
 8a69278c-4010-4182-b19d-120b45ee87cb,benedict.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,23/09/2026 07:52
+b03d4c1f-413e-4870-a67b-c89e715930e0,keenan.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,28/09/2026 22:23
+af54a043-95cf-4116-a2c9-2631f924ac80,silvio.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,30/09/2026 00:38
+44f9678c-83bc-48ef-9311-0875ac66c1eb,chaplin.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,28/09/2026 18:39
+faf8bcc1-7a1c-45d2-85d2-158bf18ba687,clubhouse.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,29/09/2026 18:23
 06ff14a7-b79e-4551-a052-9a0f0566feec,streets.ryukyu,available,22.98,,high,low,7,namecheap,,,
 4c66901c-5b42-4a63-8b10-7ca06931d046,multiplayer.ryukyu,available,22.98,,high,low,11,namecheap,,,
+db2f7910-38e2-4b06-94c4-eef940fec071,grouping.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,29/09/2026 21:36
 ea2b771e-4f9f-479b-86c8-1350242367d1,gooney.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,23/09/2026 23:44
+8d597aff-3a69-44c2-bb35-55bb6d0fde24,bred.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,29/09/2026 14:17
 6d275fd1-1bf9-4f69-a4ef-a63ea596af66,necromancy.ryukyu,available,24.99,31.99,medium,low,10,name.com,,,23/09/2026 23:53
 f7275e38-cd9d-4904-87c6-591ffe42010d,aeration.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,17/09/2026 12:46
+89956dca-2f60-4441-9055-6022ae2b1a5e,unfold.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,30/09/2026 03:13
 2c6bbb2b-a73f-43e9-83d7-638f02dc3e9b,burnett.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,25/09/2026 03:44
 9de183e3-f704-4975-9212-7fd3f02d73a0,argiope.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,20/09/2026 04:25
 b9011091-fc7d-49e5-ac00-4c5b34b3890f,harmon.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,27/09/2026 07:57
 4dd0688a-56af-47c2-98e3-e156b0eb6bfa,dynamic.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,24/09/2026 12:41
 1bf32512-748e-4e79-a62c-7ea13c0b03b0,dildo.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,24/09/2026 22:19
-02e383d6-2131-44c0-ae4f-e1320fdfa145,copy.ryukyu,available,22.98,,high,low,4,namecheap,,,
+02e383d6-2131-44c0-ae4f-e1320fdfa145,copy.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,29/09/2026 11:34
 3d506edc-aa0b-4415-95aa-bdd76d89a36f,alhazen.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,18/09/2026 00:42
 7403b76a-9d07-4dba-a716-8121fbfc5191,russian.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,27/09/2026 17:35
+d067f030-5767-42af-852a-28894104b7e0,flu.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,29/09/2026 19:35
 89032fb1-5dd1-44f6-a65e-5302550cf1bd,asa.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,25/09/2026 12:30
+463330a0-180c-4bd2-9d3f-e4ec8f47cc18,pablo.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,28/09/2026 11:58
+73130aa1-1e3b-4a47-9a32-98f3c38b2ddc,existence.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,28/09/2026 10:53
 1df3f4bc-2ef3-4a51-bd05-5ff13953f04b,cups.ryukyu,available,17.98,22.98,medium,low,4,namecheap,,,18/09/2026 07:17
-d1590fd4-3e6f-4ca3-8794-144014e8d596,delay.ryukyu,available,22.98,,medium,low,5,namecheap,,,
-4eb56acb-fa1b-4998-8251-bd6a3f9b8121,klaus.ryukyu,available,24.99,31.99,medium,low,5,name.com,,,27/09/2026 01:38
+f266949c-fc44-4bc0-ad96-4d29041f6b4d,atmospheric.ryukyu,available,17.98,22.98,high,low,11,namecheap,,,29/09/2026 21:02
+d1590fd4-3e6f-4ca3-8794-144014e8d596,delay.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,29/09/2026 13:44
+4eb56acb-fa1b-4998-8251-bd6a3f9b8121,klaus.ryukyu,available,24.99,31.99,high,low,5,name.com,,,27/09/2026 01:38
+3966c987-16f6-462e-bbf9-1a8e522e8d6e,superfamily.ryukyu,available,17.98,22.98,medium,low,11,namecheap,,,29/09/2026 02:59
 c8bbbcc2-8fad-47f1-b9c7-8de07ef6cfe6,basle.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,22/09/2026 10:14
 c7e82315-2951-427c-bc70-1db89854ec63,weather.ryukyu,available,17.98,22.98,high,medium,7,namecheap,,,23/09/2026 02:29
-21a52ae0-2f4e-4f57-96ef-ddd83952ec09,navy.ryukyu,available,22.98,,high,low,4,namecheap,,,
-71427b3a-0435-4435-b0f6-e63d0eb1fd49,costs.ryukyu,available,22.98,,high,low,5,namecheap,,,
+21a52ae0-2f4e-4f57-96ef-ddd83952ec09,navy.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,29/09/2026 13:12
+71427b3a-0435-4435-b0f6-e63d0eb1fd49,costs.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,29/09/2026 11:44
+5ef72a11-2e71-43ee-bc56-f3610a1c04c5,playhouse.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,29/09/2026 02:35
+fceb5c02-0eb0-4ab8-9ad1-41cb92a2b630,hardest.ryukyu,available,17.98,22.98,low,low,7,namecheap,,,28/09/2026 12:52
 019216bf-6fa1-4bae-86f8-e9ff88d3e9de,gismo.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,19/09/2026 21:49
+9c5099cc-e953-4441-b068-cb1d2721fd41,spun.ryukyu,available,17.98,22.98,medium,low,4,namecheap,,,29/09/2026 15:59
 e8887f54-ffb3-4be8-9829-dcfdb449bf0f,sulfur.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,20/09/2026 22:28
 c101d4c0-a4aa-4904-bc9c-732a8357236e,eugene.ryukyu,available,33.99,33.99,high,low,6,godaddy,,,28/09/2026 01:51
 360b4bf7-9dd2-464c-98d9-02cad1def54a,invest.ryukyu,available,33.99,33.99,high,medium,6,godaddy,,,28/09/2026 02:00
 91bdc8d3-2556-48ff-a13c-7f2f36eb44ee,receives.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,18/09/2026 17:46
+180e0c04-fd93-46d4-b5ae-c65723f4d376,holden.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,28/09/2026 16:09
 62a5c1f1-8315-4c78-afe3-a05e79d0dbd9,trout.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,28/09/2026 06:50
 cf2ab458-572d-4319-b4c9-1d2aef2e5757,drogue.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,17/09/2026 21:47
 58e23381-574c-4891-99ba-44bb39bce479,ordering.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,27/09/2026 15:05
@@ -500,34 +689,49 @@ aa3025fc-28bb-41c8-a30c-9a78983deb2b,arere.ryukyu,available,17.98,22.98,medium,l
 b261efee-9c0a-44f1-bb59-1b1b85e6e1e6,asgard.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,20/09/2026 13:34
 bfe65d75-90a7-4a44-b618-c76bea5e9ca5,criminal.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,23/09/2026 19:22
 a7d11de5-7f85-4b84-ab9e-c97e1c19afb6,johanna.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,28/09/2026 03:57
+a7cd47e9-6e89-4af2-b66c-2a64f5d1b402,implication.ryukyu,available,17.98,22.98,medium,low,11,namecheap,,,29/09/2026 22:52
 028ea219-7136-4b03-84bf-e950ddf26609,pins.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,18/09/2026 08:25
 5afc0123-94ef-420b-bd91-87a760d63711,murine.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,03/09/2026 11:04
 83807948-6d16-47d8-ab74-2cb009402c13,work.ryukyu,available,17.98,22.98,high,medium,4,namecheap,,,27/09/2026 23:50
+a8b331b4-9b3d-4c44-922e-5ed6aac5da36,malfunction.ryukyu,available,17.98,22.98,high,low,11,namecheap,,,29/09/2026 08:32
 92bd9f97-ff91-441e-bdfe-fccf37204b83,using.ryukyu,available,22.98,,high,low,5,namecheap,,,
+faee403a-cfe1-4d33-845a-f611cc75a92c,garza.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,28/09/2026 21:33
 bd050acb-f552-4f30-a75e-e4a2185a8636,plumbers.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,20/09/2026 11:13
+af7f530c-bba5-42db-8926-3df12eeb5fb6,offenders.ryukyu,available,17.98,22.98,low,low,9,namecheap,,,29/09/2026 05:55
 a6efa90f-fac7-497d-a20d-5fa8e0a897f9,stria.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,22/09/2026 01:18
 6f4f9f06-e24f-4a5f-ae03-9cda36dc2e73,humble.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,22/09/2026 17:44
 3b5e9ddf-8732-4ca7-b815-03fed1801ace,bighead.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,23/09/2026 15:09
 ec117411-affb-4a34-986b-3f3d5dca39cb,animated.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,22/09/2026 05:00
 fbda9f1c-5c95-4cfb-9dfe-5c4381e7a641,solidus.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,23/09/2026 12:18
-e7e0f71a-feb6-4fad-8bc0-c3deabb22ad7,bjp.ryukyu,available,22.98,,medium,low,3,namecheap,,,
+e7e0f71a-feb6-4fad-8bc0-c3deabb22ad7,bjp.ryukyu,available,22.98,,high,low,3,namecheap,,,
+30a089ae-03e2-4d9a-95c8-2a5b5872045e,dublin.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,29/09/2026 18:12
+d470a462-76d4-46ed-bbe6-f905a1c31d08,hartford.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,28/09/2026 18:33
 e9990acc-baa3-4d84-8d81-bbd602f42ec1,ague.ryukyu,available,17.98,22.98,medium,low,4,namecheap,,,
+2348198b-acc9-4cdd-a8bf-4ff5ef0f575e,stealth.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,29/09/2026 08:08
 c339c6af-cfb2-4ec8-a548-336c2e80dc62,gita.ryukyu,available,17.98,22.98,medium,low,4,namecheap,,,23/09/2026 12:33
+da0c44f2-f9ba-421d-979f-6d3413696a3f,eic.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,29/09/2026 21:33
+b0bbf726-71d9-41d9-8a29-fdaa19c20e8e,tenure.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,29/09/2026 19:18
 d89ed42f-71a6-4c3c-af60-9fe6bed7c992,stockton.ryukyu,available,24.99,31.99,high,low,8,name.com,,,25/09/2026 06:10
 4dff2044-85b9-41ef-bc97-41a0ac6222ca,sirens.ryukyu,available,24.99,31.99,medium,low,6,name.com,,,21/09/2026 02:34
 60ce9165-417b-4e57-9b87-07b86c6c9ccd,headteacher.ryukyu,available,22.98,,high,low,12,namecheap,,,
-5417bf43-eed8-4081-bcc2-c090251e6432,dime.ryukyu,available,22.98,,high,low,4,namecheap,,,
+342f4b9f-096c-4e20-befa-205ac24d1d53,valparaiso.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,29/09/2026 02:28
+5417bf43-eed8-4081-bcc2-c090251e6432,dime.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,29/09/2026 14:59
+98c1ade2-e0f6-41cc-896f-7252c0a037fe,wehrmacht.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,28/09/2026 16:22
 c130de0c-bd49-43da-884a-5a691524b6ca,disrepair.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,24/09/2026 23:02
 bd3bdc8a-52e3-4284-b588-97faa48be2ee,planted.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,24/09/2026 04:59
 69607b09-9d99-41bf-baa6-134addd21a71,elizabeth.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,25/09/2026 05:29
 1f262003-aa29-42d3-ae49-56a4a9889bea,alison.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,28/09/2026 04:29
+eef0f8be-fca6-43ba-8cbd-9c4bea964c91,toledo.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,28/09/2026 15:28
+3af6ee74-0904-427f-a48f-145b6840489a,quill.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,29/09/2026 18:54
 a7ca9364-0f25-4eee-b8b5-3b630fe517c2,wes.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,26/09/2026 03:32
-2853268f-1a3c-4fe2-8257-69bf3ea52f24,video.ryukyu,available,17.98,22.98,high,medium,5,namecheap,,,28/09/2026 02:56
+3043b9f1-8774-441b-b7c7-a7736bc95446,alvarado.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,28/09/2026 16:06
+2853268f-1a3c-4fe2-8257-69bf3ea52f24,video.ryukyu,available,17.98,22.98,high,medium,5,namecheap,,,30/09/2026 02:58
 03dd9806-a228-40d2-910b-32730def3309,manager.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,24/09/2026 16:11
 b69ce5ad-6b70-41ef-b7dc-afb5a44c15dd,whoreson.ryukyu,available,17.98,22.98,low,low,8,namecheap,,,08/08/2026 23:43
 a0aa2fd7-4be6-405e-91ef-08712cfd1b8f,bicker.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,23/09/2026 13:12
 999871d6-e117-4744-a347-28aea051171a,greene.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,25/09/2026 06:41
 d516450a-d703-4d96-986c-9950de19a23b,sal.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,28/09/2026 03:21
+6e5c70b8-c3a3-4618-be22-bb58876dbc0f,containing.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,29/09/2026 03:15
 f4419bec-a235-4a85-a660-f41f3a021c16,darnel.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,22/09/2026 21:10
 188439f8-c998-44fb-b680-039daca6cc31,asahikawa.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,20/09/2026 12:44
 a3643f6d-8a56-41f1-8bc4-682400cc5405,donaldson.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,27/09/2026 01:45
@@ -536,23 +740,31 @@ a3643f6d-8a56-41f1-8bc4-682400cc5405,donaldson.ryukyu,available,17.98,22.98,medi
 037149ff-a79a-4696-8cd0-0f436276a4e0,pushkin.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,18/09/2026 05:07
 d723ff50-de44-4aaa-93e6-df4900008214,race.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,27/09/2026 17:26
 8ccb8497-9fdd-4c24-a3f4-42048e0ef074,shannon.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,25/09/2026 04:16
+85bae2da-67d7-432b-b516-7b38b287d985,billions.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,29/09/2026 06:04
 e2233c4d-cb4c-4c6f-90f8-01b853d3b3b6,zesty.ryukyu,available,22.98,,high,low,5,namecheap,,,
-c30385a9-b2c9-48c3-8a91-11d224710aa1,taco.ryukyu,available,22.98,,high,low,4,namecheap,,,
+c30385a9-b2c9-48c3-8a91-11d224710aa1,taco.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,29/09/2026 21:33
 e75944bc-cdee-43d3-817f-e57117c8c402,lerner.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,18/09/2026 01:44
 d175e599-60c2-4a4c-953f-20075af07d51,sedated.ryukyu,available,17.98,22.98,low,low,7,namecheap,,,16/09/2026 18:04
+80d91cee-4eed-40f0-a98f-b203827d0df7,taxonomy.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,30/09/2026 03:01
+8ebd278c-8831-4e24-8c44-b6e0cb7c14e0,shankar.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,29/09/2026 13:44
 5d97d2aa-7528-4b4a-9413-5c809ba29f35,calendar.ryukyu,available,17.98,22.98,high,medium,8,namecheap,,,24/09/2026 11:42
 46ec8d96-9a72-4f23-930b-373a541f9e41,bust.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,23/09/2026 09:51
 059a0b53-82e1-47d6-8aaf-c9296f8aa4d5,xix.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,21/09/2026 12:08
-067609e1-6c08-42cd-9ea6-500ebae08fd2,autodidact.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,21/09/2026 06:15
+01004190-3e20-48cc-8cdf-3915e1faf6a3,chechnya.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,29/09/2026 18:18
+8d869c9d-f29d-47d0-9f71-1e869c5aa34b,bumped.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,29/09/2026 21:29
+067609e1-6c08-42cd-9ea6-500ebae08fd2,autodidact.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,21/09/2026 06:15
 5319a92d-6daf-4f08-bed6-076ed830e6da,manson.ryukyu,available,33.99,33.99,high,low,6,godaddy,,,28/09/2026 02:18
 8b03fca7-1405-464d-aa47-f5070659bb9e,shane.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,26/09/2026 03:35
 891b6fd1-9b9d-43da-9685-93fca5d80dce,palo.ryukyu,available,17.98,22.98,medium,low,4,namecheap,,,27/09/2026 01:51
 56bc8ceb-d832-4326-8b3e-cb790f970ad1,autonomous.ryukyu,available,17.98,22.98,high,medium,10,namecheap,,,22/09/2026 14:12
 383d754c-0f5a-41aa-9352-1353fbb90289,stabbed.ryukyu,available,17.98,22.98,low,low,7,namecheap,,,28/09/2026 00:02
-1a93ceb3-86a8-42ac-9acb-a74c9b5f6d98,branded.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,23/09/2026 02:22
+1a93ceb3-86a8-42ac-9acb-a74c9b5f6d98,branded.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,30/09/2026 02:23
 c1ad3036-aacc-4510-830a-7ccfc87d36c0,pediatrist.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,21/09/2026 13:27
 eb65ef5e-043d-456b-90a2-1434252d2ec5,connolly.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,25/09/2026 22:17
+930b6496-e91c-4445-8183-39f693a87856,counselor.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,28/09/2026 13:47
+cabe5ab4-4c2a-400f-94bd-6e3247e36664,ignition.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,28/09/2026 10:06
 88c1bf89-2959-4d2f-9dec-e11569dc34f9,tomorrows.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,21/09/2026 09:58
+008e3058-c13b-4195-86ca-48340083ca99,philosopher.ryukyu,available,17.98,22.98,high,low,11,namecheap,,,28/09/2026 11:16
 e584cca2-9068-4a54-ab40-742966824dce,davidson.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,25/09/2026 15:02
 deea00b2-da65-4216-832e-0ab2ba96d52b,liveness.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,19/09/2026 09:04
 4cc84db3-2f85-42b2-ad00-e33ab97fa64c,sensational.ryukyu,available,22.98,,high,low,11,namecheap,,,
@@ -563,17 +775,19 @@ f4e795da-01cd-427d-b1cb-e1a3aa77a360,felt.ryukyu,available,17.98,22.98,high,low,
 7ec69896-9f96-4fa2-b380-29c7b32dee0f,editorial.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,15/08/2026 11:07
 f423e831-b143-43b3-bec7-b0d8fcaa5e03,cheated.ryukyu,available,22.98,,medium,low,7,namecheap,,,
 a684c5eb-4c3d-4b2b-a07a-f0f7ea0b768c,consortium.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,24/09/2026 17:29
+d16469e9-2ecd-4e4d-9635-8627c05a315c,agrees.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,28/09/2026 12:39
 b7f5d06c-9745-4183-b490-03311f2cb376,avicennia.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,21/09/2026 09:24
 28a72c71-77e4-4ba4-9eca-eba09de20f4c,wineberry.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,20/09/2026 05:57
 8b765c30-8428-4272-92b6-f40a90884e53,tires.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,27/09/2026 10:07
 538b4d7c-391d-47c9-a42c-875eb8d8f1bd,billabong.ryukyu,available,17.98,22.98,high,medium,9,namecheap,,,23/09/2026 16:06
 51aeaa1d-ca72-4d1b-b9d9-0153ecbc9682,auditory.ryukyu,available,24.99,31.99,high,low,8,name.com,,,22/09/2026 12:39
-b67fe713-c69e-4a11-acd6-a5a1dc2ada02,boat.ryukyu,available,22.98,,high,low,4,namecheap,,,
+b67fe713-c69e-4a11-acd6-a5a1dc2ada02,boat.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,29/09/2026 03:06
+3680226b-9426-401e-870a-d4a849b4220c,mules.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,29/09/2026 21:20
 8275c98b-01d7-45d9-a9d6-1eb4e3ad0a86,desire.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,19/09/2026 18:10
 92e26883-04f6-44ea-b19a-b8064ae248fe,sql.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,28/09/2026 04:28
 e514c858-f9ab-4cf0-b624-9e52c4aa8fa0,attendance.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,21/09/2026 01:23
 433bdf15-cce8-4a3f-adf5-7239dff6e6b8,actinidia.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,17/09/2026 04:47
-00bac01a-a6cf-44f8-ae36-288a1eabb620,charleston.ryukyu,available,22.98,,high,low,10,namecheap,,,
+00bac01a-a6cf-44f8-ae36-288a1eabb620,charleston.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,29/09/2026 07:20
 873d462c-ff82-4153-aa25-383a04b0e399,arctium.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,20/09/2026 02:49
 f54a3342-e8b4-4e8f-b54a-dff047c50f19,ebert.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,28/09/2026 08:02
 ecab5252-6428-4cb6-ae06-43d1e6b28fcb,outback.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,26/09/2026 03:21
@@ -582,55 +796,76 @@ ecab5252-6428-4cb6-ae06-43d1e6b28fcb,outback.ryukyu,available,17.98,22.98,high,l
 1d6bedfc-777f-44b3-bfa7-533801291c22,documentary.ryukyu,available,17.98,22.98,high,low,11,namecheap,,,28/09/2026 04:30
 021e1add-fc1b-496f-a1ec-a8545a598d55,sift.ryukyu,available,22.98,,high,low,4,namecheap,,,
 b90b562e-bea8-4a78-baa4-1e1642f4dd16,barroom.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,22/09/2026 03:34
-f5f052a2-742f-430b-8cc7-1defbcef03c2,earth.ryukyu,available,22.98,,high,medium,5,namecheap,,,
-235761a9-6fbc-4d9e-a5ca-e37afae710a5,policy.ryukyu,available,22.98,,high,low,6,namecheap,,,
+2ea63af4-dd83-49fd-a638-068a349e0154,keyboard.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,28/09/2026 19:38
+f5f052a2-742f-430b-8cc7-1defbcef03c2,earth.ryukyu,available,17.98,22.98,high,medium,5,namecheap,,,29/09/2026 16:58
+235761a9-6fbc-4d9e-a5ca-e37afae710a5,policy.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,30/09/2026 00:13
 df4bb2ae-7ec5-4099-a47b-f6470a0057fc,beltway.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,23/09/2026 07:15
 7c87f634-40c6-4a48-95fc-c6a8e02a0dc6,basiliscus.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,22/09/2026 10:53
 48dbcb4c-ed67-49d5-9ff3-b04780ca8b72,bookstore.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,24/09/2026 07:17
+bf8afc76-a20f-4542-877a-c37b766a04bb,cfr.ryukyu,available,17.98,22.98,medium,low,3,namecheap,,,28/09/2026 11:55
 726e597a-da80-485b-a812-aac71faca73f,addible.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,
 b86e5df6-b735-4438-9fcf-a82f349a1ed3,diminuendo.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,13/08/2026 22:19
+c5b5ac02-7dd2-49ff-9d4e-4d90bb49a82b,haven.ryukyu,available,17.98,22.98,high,medium,5,namecheap,,,29/09/2026 22:11
+be68ed88-a45b-488a-a81b-293ddf74a19a,martyn.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,29/09/2026 09:11
 03179a72-0e79-44d9-918b-714a2e68c2f6,baloney.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,21/09/2026 23:43
 344e0755-b3c8-4c9d-8dd7-ba1483cacb7c,aerobatics.ryukyu,available,24.99,31.99,high,low,10,name.com,,,17/09/2026 12:53
 b920f07b-08d3-411a-93c3-79d8cd0d8a46,marketing.ryukyu,available,17.98,22.98,high,medium,9,namecheap,,,28/09/2026 06:40
+36bfb3c6-8835-45e2-895b-7d44960eaa50,folded.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,28/09/2026 16:55
+d4742057-2c2f-45cf-9c4b-e0635d6ad97a,loomis.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,28/09/2026 12:17
 6543e0e2-ff0c-4c3d-9bd1-1a9c8688a2a3,cohen.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,27/09/2026 03:21
 7421403a-ac8e-4d98-96f9-03e7fc1ab2e9,barnum.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,22/09/2026 06:55
 6386734a-d84b-47ae-b713-afd494db0ff5,braid.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,24/09/2026 07:53
+f397e95e-8de3-452f-a8a4-5f8011940cab,lincolnshire.ryukyu,available,17.98,22.98,medium,low,12,namecheap,,,28/09/2026 11:48
+d2a5021d-da01-47cb-aa7a-2a7f412200e5,fema.ryukyu,available,17.98,22.98,medium,low,4,namecheap,,,29/09/2026 00:53
 f17539c4-82f5-4c87-ac14-da21e91afbeb,cook.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,27/09/2026 10:07
 d8085d68-04f4-43ad-b1d1-40c3c237bf8f,scupper.ryukyu,available,24.99,31.99,medium,low,7,name.com,,,18/09/2026 17:30
 0f33d258-f15e-411d-9628-6cafeceb9a50,minimum.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,25/09/2026 20:24
 0b3b3536-860b-4c0e-8b3f-8617a7bad151,nightstick.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,23/09/2026 16:38
-7d7ce50e-6504-42f9-8845-4cdc401ece36,album.ryukyu,available,22.98,,high,low,5,namecheap,,,
+7d7ce50e-6504-42f9-8845-4cdc401ece36,album.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,28/09/2026 20:08
+83f6dbac-7af0-4f3d-937e-418fb5cc0df9,turtles.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,28/09/2026 23:52
 9cbadcaf-259c-4dda-9441-182c996386c8,randall.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,28/09/2026 04:02
 48e11890-e9d9-4a31-9065-2cf6b8ace137,kfc.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,16/09/2026 23:46
+3fddee91-4c9a-46de-87a8-caeb7957fc19,lettres.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,29/09/2026 05:30
 2b65a107-f434-440d-b7d7-2efac57d3780,arisaema.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,20/09/2026 05:35
+436a3586-5c0d-4e27-a55d-3a3b2671009e,edmunds.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,28/09/2026 16:36
 ca6e9906-0f1a-47cf-a46a-e455e482617d,bilocation.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,23/09/2026 16:51
 f9e59ead-b31b-4fce-942e-85857d01e680,torre.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,28/09/2026 03:40
 86201665-40a9-4ba5-9a5c-dee31f4c2305,ayah.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,21/09/2026 10:32
 f41ac950-1feb-47dc-b558-12d7aa9eb01e,grugru.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,17/09/2026 03:33
 0faf2141-ccb0-479f-bebd-7ff0cf9ec694,streamed.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,28/09/2026 03:37
 18627262-e5e7-4b3a-a075-07f0094e426e,irritable.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,25/09/2026 11:30
+31b5513b-a407-40f4-be79-9bd40887d75c,incidentally.ryukyu,available,17.98,22.98,medium,low,12,namecheap,,,28/09/2026 21:17
 9b0ab227-4861-4beb-95cd-a51cd7398dd9,selkirk.ryukyu,available,24.99,31.99,medium,low,7,name.com,,,18/09/2026 05:50
-1326fc71-c039-42da-8869-fb906feddf0d,haircut.ryukyu,available,22.98,,high,low,7,namecheap,,,
-f27e48a6-e68e-4eff-a50b-3fa67eb3dc6b,pope.ryukyu,available,22.98,,high,low,4,namecheap,,,
+1326fc71-c039-42da-8869-fb906feddf0d,haircut.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,29/09/2026 21:56
+d3fb362f-988a-4edd-8ef2-1e7eac5dce81,catalonia.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,28/09/2026 09:16
+83dd4feb-c0c2-48ab-97b8-de09d8baf281,nan.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,29/09/2026 21:19
+f27e48a6-e68e-4eff-a50b-3fa67eb3dc6b,pope.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,28/09/2026 20:19
 9fecb4bd-5aae-4afc-beb6-2b31a8677c54,puku.ryukyu,available,17.98,22.98,medium,low,4,namecheap,,,17/09/2026 07:35
 005e44a6-aea4-43c6-810f-6c75d42b045b,agal.ryukyu,available,17.98,22.98,medium,low,4,namecheap,,,17/09/2026 16:00
 63601ff9-8221-4f78-9f54-423eb2953900,reggie.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,28/09/2026 07:45
 a743842a-2a95-4dc8-9855-ea2d4fbbefe2,rachel.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,25/09/2026 10:13
 f81490cf-9352-4eef-8494-294ce704c3d3,gorge.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,23/09/2026 17:20
 d6cf13d2-ef5a-4425-bdef-eb4ad8de0777,his.ryukyu,available,22.98,,high,low,3,namecheap,,,
+93e7c8fa-81ee-4269-9569-96fa2955b7a6,lizard.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,30/09/2026 03:05
 377dd299-4ca7-4ae4-9c5c-3afb6a268cc9,haircuts.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,21/09/2026 07:16
+645f810e-b1d1-4b01-b2ec-99985609f41e,shipyard.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,30/09/2026 02:50
 335d29a6-7aac-4fc4-ab14-d309e3784e1e,proof.ryukyu,available,17.98,22.98,high,medium,5,namecheap,,,28/09/2026 08:41
 a77620d2-725e-4d4c-bacb-603dcac64fd0,supporting.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,28/09/2026 02:02
 652bfc73-7be7-4288-9dc1-8af833e3f94f,fries.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,24/09/2026 14:42
 1489f322-f7f4-4b31-9ea0-89763f1ee929,ambiguity.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,18/09/2026 16:43
+f15c74ab-eb14-4a5f-b55b-a94fd8990e9e,polk.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,29/09/2026 07:22
 eb89215a-d626-4d7e-88e4-f048cd52c76a,reebok.ryukyu,available,22.98,,high,low,6,namecheap,,,
-ca93c122-6d31-449a-8518-70dbb52ab49a,victim.ryukyu,available,22.98,,high,low,6,namecheap,,,
+68add435-5910-4d9e-8bff-18db9ab5e393,mirrors.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,28/09/2026 12:55
+ca93c122-6d31-449a-8518-70dbb52ab49a,victim.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,29/09/2026 17:12
 1622796b-b05a-4cd4-8979-c1cfdace25bd,lost.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,22/09/2026 10:52
+65506b0d-a079-4a59-b8ee-d8017cde575e,foucault.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,28/09/2026 19:15
 53aff94a-bf17-4858-bd8a-63476ee722de,checkroom.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,24/09/2026 14:04
 403466da-fe38-4733-9c40-6d2ddd74ce10,eight.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,21/09/2026 13:20
 6d237fe6-102d-4d08-be58-fb03347c46ac,auckland.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,21/09/2026 02:39
+4ca5cece-c53c-425c-918e-b877aa894d50,gmt.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,28/09/2026 14:18
+30906169-e54f-448d-ba3b-77e85cfb36d8,shipped.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,28/09/2026 13:02
 31b84e07-505b-4c7f-9baf-92809df1fae7,ablution.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,16/09/2026 16:14
-a910d180-9398-4de8-8720-35c1db713cb3,smaller.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,25/09/2026 14:03
+a910d180-9398-4de8-8720-35c1db713cb3,smaller.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,25/09/2026 14:03
 078ca597-b0f6-43cb-b960-79c3be29ada8,balancer.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,21/09/2026 20:52
 e734ac43-93fb-4cd1-bd6d-dde4cd8313f4,gastropod.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,12/09/2026 14:04
 5512aa96-58ab-434f-b83f-649f21f2a692,desolation.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,22/09/2026 05:24
@@ -638,41 +873,58 @@ e734ac43-93fb-4cd1-bd6d-dde4cd8313f4,gastropod.ryukyu,available,17.98,22.98,medi
 f11d8d0f-1482-45bb-b056-66324e85f757,heather.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,28/09/2026 05:22
 755b26be-a25b-4c5a-8f1e-a1a1d970701c,trimox.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,18/09/2026 22:57
 72b4855c-37c8-4e8f-ac13-da61b5f49f3c,ara.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,19/09/2026 23:23
-16c46d48-c78b-4a9d-a22a-d0b0b8a54f20,detailing.ryukyu,available,22.98,,high,low,9,namecheap,,,
-6318a3a5-ef49-42ad-9fb6-89e7f8032259,esteem.ryukyu,available,22.98,,high,low,6,namecheap,,,
+8083c749-9b0d-43ad-9967-6e7adde8abb6,niagara.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,28/09/2026 20:00
+16c46d48-c78b-4a9d-a22a-d0b0b8a54f20,detailing.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,29/09/2026 14:11
+6318a3a5-ef49-42ad-9fb6-89e7f8032259,esteem.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,28/09/2026 18:46
 89e5acd7-5847-4818-8ed3-369e57a43120,aruru.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,20/09/2026 12:26
+69ac1739-2489-4b58-9e07-461e7d1f95d8,expansion.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,28/09/2026 19:05
 a4df0d77-8733-4568-9273-2ab0cbae779e,acanthus.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,16/09/2026 21:02
 63d05bcb-a248-41d6-af5d-19594ed695ac,some.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,19/09/2026 12:35
 22d00fe3-fe69-48e6-aa99-9e767fe444cd,airman.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,17/09/2026 13:10
 57a08c0a-7f50-40eb-80b0-2ad8d497023d,rosie.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,27/09/2026 19:47
+cf384672-5a93-4d69-b06b-fb731a368af5,substantially.ryukyu,available,17.98,22.98,medium,low,13,namecheap,,,29/09/2026 21:22
+460bb694-07f1-4442-83fe-5ffd3649a786,elves.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,29/09/2026 18:45
 271d3155-5b08-4303-9c55-7d9ac6badf5d,secrets.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,25/09/2026 19:59
+88d295a0-defc-4415-87fe-f9cab2200e82,wilshire.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,29/09/2026 22:35
 0e0c8122-bdad-42b9-bd7e-c8ab485be160,armoire.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,20/09/2026 07:20
+cfd9c754-e2c8-4503-baf5-39d8d8cefcbe,winnebago.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,29/09/2026 14:09
 a4af0094-b82b-491d-a1ee-6b615e1d79fb,medici.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,25/09/2026 23:33
 d728d272-c9d0-406a-83c0-2587ef3cd6e2,spell.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,24/09/2026 22:24
+8ae28cb3-474d-4389-8fb3-0033b9bd3dcd,anticipation.ryukyu,available,17.98,22.98,high,low,12,namecheap,,,28/09/2026 22:53
 451683cb-dd12-4c55-9955-1ca1843cd5af,borderline.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,23/09/2026 00:01
 f90ef43e-ecab-497d-b50f-20fdd15405bc,demonstrates.ryukyu,available,17.98,22.98,medium,low,12,namecheap,,,20/09/2026 23:55
+9291efc6-1d0c-48a7-a1f7-f311a0c9668f,rockingham.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,28/09/2026 13:42
 3128bfef-f85c-4c11-ba22-c27e92caa0d7,brothel.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,21/09/2026 18:15
-08257eb1-08e8-4d4d-81e6-c8b8a7de8dc5,apiary.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,19/09/2026 17:20
+08257eb1-08e8-4d4d-81e6-c8b8a7de8dc5,apiary.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,19/09/2026 17:20
+01096ea7-8075-42b3-ac3f-7e362b50659b,hometown.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,28/09/2026 10:06
+cfc5009c-63f3-40f3-89fe-bc3c8150f6f7,gaspar.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,29/09/2026 18:14
 ea599837-a6b2-45e0-8a2f-1d8d8a018904,aquitania.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,19/09/2026 23:18
 c31aa6f6-fe03-4d02-81fd-c314ba6369e4,ferrari.ryukyu,available,17.98,22.98,high,high,7,namecheap,,,28/09/2026 03:37
 5e8f0e23-2bb8-4000-858d-8f3db2b026c2,alqaeda.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,18/09/2026 00:59
 c3567b8a-98b8-43f5-b782-00465ecfe013,oneself.ryukyu,available,22.98,,high,low,7,namecheap,,,
 3d1ba876-6791-4b3f-8e2b-7cb8e0a96699,furnishing.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,28/09/2026 02:47
 c202d8d0-1b4d-4d30-b9c5-1536698a3a18,comstock.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,19/09/2026 13:40
+cff8f78c-c41c-4d6c-8ee5-92a34fb736dd,vacancy.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,29/09/2026 20:34
+92541579-58e8-4a36-ba03-643f62c640e6,burma.ryukyu,available,17.98,22.98,high,medium,5,namecheap,,,29/09/2026 11:49
+71231816-794d-49d8-8666-af8d0bc9c98e,receiver.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,28/09/2026 10:40
 0e074d5f-58d4-4566-9863-7e0377f46c7b,bsarch.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,21/09/2026 14:16
+3fd4e865-6fec-4af3-bde7-484d9dc2e02c,approximate.ryukyu,available,17.98,22.98,high,low,11,namecheap,,,29/09/2026 08:31
 9cf63628-5cb9-4a05-b065-858e040eaf26,attalea.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,21/09/2026 01:14
 599e16dd-b713-4264-877d-a3f4d43ed821,respecting.ryukyu,available,22.98,,medium,low,10,namecheap,,,
 bb19363e-692b-486b-9c4d-fd7b0b12fd29,favourable.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,24/09/2026 17:24
 134a001b-95af-4c81-b2ac-59ffa3d58760,activated.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,21/09/2026 16:32
 d9909085-0c18-4e21-9239-77d1e0282668,clout.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,23/09/2026 13:48
+6fce8b9e-ac79-44fb-9b1e-5a489cfa5538,freaks.ryukyu,available,17.98,22.98,low,low,6,namecheap,,,30/09/2026 00:34
 febe2cdc-d622-4065-9662-adcceefb8df6,dishes.ryukyu,available,24.99,31.99,medium,low,6,name.com,,,27/09/2026 02:34
 068a763d-d942-40fb-9750-9ffca9ac51d3,nes.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,28/09/2026 03:45
+f3f4a68c-3d08-4da4-b1b3-34941cd0ad0b,honoured.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,29/09/2026 03:18
 74ef82f1-1e7b-4763-b1fe-b1595958b20f,consumption.ryukyu,available,22.98,,high,low,11,namecheap,,,
 f009c091-e567-4a69-b77a-636cfa1bc3b4,overeasy.ryukyu,available,24.99,31.99,medium,low,9,name.com,,,16/09/2026 17:44
-db8c8483-5a74-4d06-8341-123777d63e37,baby.ryukyu,available,22.98,,high,low,4,namecheap,,,
-0e97320c-6bcb-4803-b1c2-1cd855fa764e,beachwear.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,22/09/2026 19:10
+db8c8483-5a74-4d06-8341-123777d63e37,baby.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,29/09/2026 00:03
+0e97320c-6bcb-4803-b1c2-1cd855fa764e,beachwear.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,22/09/2026 19:10
 558ddd6c-1b7a-4858-97c1-983d3dc7922b,xxx.ryukyu,available,17.98,22.98,high,medium,3,namecheap,,,25/09/2026 15:34
-a8bd1f80-2525-4f7a-a613-740ebc38ad86,pin.ryukyu,available,22.98,,high,low,3,namecheap,,,
+00705851-844c-42d4-b7f2-4d946a9b633d,locations.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,28/09/2026 17:11
+a8bd1f80-2525-4f7a-a613-740ebc38ad86,pin.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,29/09/2026 03:45
 be4c9ad7-dfa0-40f9-b23f-24ddac70f48c,overcome.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,28/09/2026 05:30
 b3ecbc81-a4c9-4803-9861-41aa1326b60f,acarine.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,16/09/2026 21:33
 9b4e5b8c-0f0d-47a8-b9bd-8ceb918b5374,houghton.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,25/09/2026 23:07
@@ -684,14 +936,18 @@ c26cf9e2-f949-461d-80d7-539df07c0f05,arbutus.ryukyu,available,17.98,22.98,medium
 68ddd9d5-3231-412e-9037-6f1ea9612418,benzedrine.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,23/09/2026 08:31
 629c559e-8bf1-4413-89a5-4522a077cc64,rocambole.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,18/09/2026 11:33
 e39123e1-46f4-4b24-b6fc-5562bee11cbd,charts.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,18/09/2026 23:12
-ff14f664-f032-4cf6-8e94-864a0d6d2538,occur.ryukyu,available,22.98,,high,low,5,namecheap,,,
-1d9cfa53-2f0b-4549-9876-59b03d063a09,weinstein.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,28/09/2026 07:31
+ff14f664-f032-4cf6-8e94-864a0d6d2538,occur.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,29/09/2026 22:05
+1d9cfa53-2f0b-4549-9876-59b03d063a09,weinstein.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,28/09/2026 07:31
+dfb3dabc-d9a0-4fcf-91b3-369fd532a263,wii.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,28/09/2026 16:10
+4b2c7231-cf3f-4fd5-945b-f8518f8d1352,subport.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,28/09/2026 16:14
 f37730e8-626a-45a9-9238-72177e613fa4,capsular.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,08/09/2026 04:10
 c469b021-7b93-4a07-a87d-053e268e5d99,audacious.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,22/09/2026 12:06
 34d544fd-6d3b-4f08-9b3c-def079fad114,msg.ryukyu,available,22.98,,high,low,3,namecheap,,,
 e7b4769b-5099-43f0-abb6-982f347ef77f,thrilly.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,18/09/2026 19:36
+1dcf0169-d1cf-4083-80cd-91923231336a,mysteries.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,28/09/2026 17:32
 8380f2ef-b1f9-4603-be61-5354f9cfe760,distant.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,22/09/2026 02:03
 ec3e6056-b637-48cb-a9f1-9d59ad3a7a0d,decreed.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,13/08/2026 22:14
+5b521cce-0ee0-49c4-a38d-606aaa7445cd,disappearing.ryukyu,available,17.98,22.98,medium,low,12,namecheap,,,28/09/2026 11:34
 33a8fba0-4628-4a35-b62a-2ad1dfb85c1b,binturong.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,20/09/2026 02:47
 477007ba-0fbb-4870-be94-66487afdfb3d,flames.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,27/09/2026 23:38
 363ee437-1866-4f18-a658-80ed66369145,forget.ryukyu,available,22.98,,medium,low,6,namecheap,,,
@@ -700,302 +956,46 @@ ec3e6056-b637-48cb-a9f1-9d59ad3a7a0d,decreed.ryukyu,available,17.98,22.98,medium
 99f2a27f-5669-4dce-88b4-8cf8786218a4,teenaged.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,19/09/2026 04:34
 be06c5d6-4d74-4b71-b816-e24bd2a9aeda,lyndon.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,25/09/2026 16:09
 6d05f5c3-1c97-4688-b468-a3d7ace3c6a2,fda.ryukyu,available,24.99,31.99,high,low,3,name.com,,,25/09/2026 05:55
-f4198cfa-ef1c-4da5-8c9e-e0eb8376ffe4,dipper.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,23/09/2026 14:29
+f4198cfa-ef1c-4da5-8c9e-e0eb8376ffe4,dipper.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,23/09/2026 14:29
 a2ce5668-cc9d-4a68-a783-1855799d4e6d,odour.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,20/09/2026 08:26
+1cc81def-cfd8-4424-904a-416e7fc93657,chancellor.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,28/09/2026 18:38
 f44bf59d-48f6-46d8-98ee-fd1aa57a44b4,camail.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,21/09/2026 09:01
 ff60cc77-cea7-451f-9ef5-10e76b84898b,deposition.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,24/09/2026 22:00
-7f3a819c-0ff9-421f-97d3-a5ee8e5b2e62,course.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,26/09/2026 03:35
+7f3a819c-0ff9-421f-97d3-a5ee8e5b2e62,course.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,28/09/2026 20:13
 ce490f32-5e95-4154-a58e-833470537932,blackthorn.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,24/09/2026 03:10
 de2c662d-c6df-4635-9dbf-bbb4a9190091,barron.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,27/09/2026 08:02
+c84a5cb3-c29f-49db-b039-d99e3134eb34,lin.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,28/09/2026 10:15
 5abb7471-0f13-4fd8-a86b-bfc2ddb1c9de,changed.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,12/08/2026 01:53
 69eaf0cd-116c-420c-9282-24a0953c9b3e,sterope.ryukyu,available,17.98,22.98,low,low,7,namecheap,,,20/09/2026 17:14
-04167cc4-132c-467d-b422-214ed6bb213a,attache.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,21/09/2026 01:04
+04167cc4-132c-467d-b422-214ed6bb213a,attache.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,21/09/2026 01:04
 262beaf8-045d-42ea-b0e3-b62d94df4598,revealed.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,27/09/2026 22:35
 3c060e85-4ceb-47cb-ac78-1f3baf024278,hollyhock.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,18/09/2026 14:54
 22b5a894-6e04-499c-b35d-39676a1312b9,owner.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,25/09/2026 09:45
+29a7b028-5119-442e-953f-ab19c06eccec,calender.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,29/09/2026 05:50
 b4ad17c3-e2a9-4df2-b1de-7cddf127a6e9,aluminate.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,18/09/2026 15:13
+f465274b-035a-4728-8f5a-e8d6522fee96,england.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,29/09/2026 18:14
+5de5af44-6e62-4837-be1b-fd2539eea8bb,golgi.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,30/09/2026 00:57
 b11c29b0-c7b4-4d66-bc1f-74ee6af035a2,eva.ryukyu,available,17.98,22.98,high,medium,3,namecheap,,,25/09/2026 14:38
 747b1759-642f-4b01-b983-b26da5885774,compute.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,19/09/2026 14:03
 a1525e63-0a12-49a3-b0a2-094a1768af7d,fields.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,25/09/2026 22:46
 7f247a74-b427-4346-ac65-cd93d5c668b7,phosphorus.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,20/09/2026 22:25
 a113af09-75c5-46ec-b4f8-07288306a62d,basotho.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,22/09/2026 11:35
-0867f4d4-8b25-41fb-a768-ea091cd8d0d4,baronet.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,22/09/2026 07:28
+29460935-c93f-4d40-93cc-d311a8700497,marche.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,29/09/2026 13:23
+0867f4d4-8b25-41fb-a768-ea091cd8d0d4,baronet.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,22/09/2026 07:28
 cf12607c-2059-4868-b564-ddb08aaefca1,djia.ryukyu,available,22.98,,medium,low,4,namecheap,,,
 fbb61f86-7b9d-4884-817c-b13de9750ad4,baster.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,22/09/2026 12:47
+18595921-b7bc-4d24-a6aa-83b8709a4949,earrings.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,30/09/2026 00:39
 4feb38b8-c6e6-4858-bc33-b19b10e09602,amperage.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,18/09/2026 23:07
 092cc8bb-66a1-4335-86b2-473088e843a4,collars.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,20/09/2026 09:10
 bbae6b16-48b0-4e82-91e9-65e4cbac6f2b,laying.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,25/09/2026 22:34
 ac2c0b58-68d2-494a-8f57-ec4b1465d1f0,sportswear.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,17/09/2026 05:14
+51a51b73-d54b-4e85-b992-3cde34ffba24,jia.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,29/09/2026 22:43
 30144469-5fbd-49b7-9ad5-2cdb6f18efa4,brainstorm.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,24/09/2026 08:05
 6bd9dbfc-fbe6-40ee-9e36-73d68d0a89c3,pullover.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,16/09/2026 17:17
 b1336494-be6b-4d06-98dc-49addd67db11,organic.ryukyu,available,22.98,,high,low,7,namecheap,,,
 bdbcdf16-5f6c-4539-be3c-7dad24c330a4,armstrong.ryukyu,available,17.98,22.98,high,medium,9,namecheap,,,20/09/2026 07:49
 c09e3e48-889d-425b-b56b-5d49a8db354f,douglas.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,27/09/2026 13:08
 46179883-2a4d-46e0-ad19-40093b870147,betrayer.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,23/09/2026 11:31
+abc85419-df93-496a-a1d7-4e57b2379da0,medford.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,28/09/2026 10:21
 b94b4ee9-c46f-48b7-8041-f1dd6f3517bf,annoyed.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,22/09/2026 05:18
 cf9e391c-e81a-4adb-acd2-1f2bc58badab,wallace.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,18/09/2026 06:43
-925b7c17-3763-4e00-9735-77d62cf804ba,sunblind.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,21/09/2026 10:15
-6b9f455a-b5cf-455b-a9e8-e649216df215,competition.ryukyu,available,17.98,22.98,high,low,11,namecheap,,,25/09/2026 16:42
-21acc863-cd74-4950-b52c-d1625ae4b0d8,ararat.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,20/09/2026 00:11
-3c7d5452-8a74-4a09-b895-fadac7727089,resources.ryukyu,available,22.98,,medium,low,9,namecheap,,,
-bede32f8-7fe1-4301-8bf7-9914632be4a6,steadfast.ryukyu,available,17.98,22.98,high,medium,9,namecheap,,,19/09/2026 14:16
-cd7bec09-4ea1-4595-86b6-8ad9febc1d1c,argument.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,20/09/2026 04:49
-7aad9cbf-0342-4c48-a7e4-37a78d0da2ff,baptists.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,22/09/2026 03:33
-1d1bbe3b-9d62-46c4-84e5-8d3546c9fa72,bearskin.ryukyu,available,24.99,31.99,medium,low,8,name.com,,,22/09/2026 21:25
-fb8219df-cf92-4bcc-b582-169f67a39a5f,alice.ryukyu,available,17.98,22.98,high,medium,5,namecheap,,,25/09/2026 13:23
-2c21012d-93d5-4da6-a474-61d940ebc1d5,type.ryukyu,available,22.98,,high,low,4,namecheap,,,
-54d64f84-df3b-4a93-a333-6c971526e130,jesus.ryukyu,available,22.98,,high,medium,5,namecheap,,,
-75292c00-b060-4dc4-9be6-5ff4ccdb54c6,attack.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,28/09/2026 08:45
-f56e82c0-9207-4a68-aaed-efee35099f36,meeting.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,28/09/2026 07:59
-fe4ff4bd-c819-4ba1-8a3c-4ac2d582c709,prices.ryukyu,available,22.98,,medium,low,6,namecheap,,,
-cc3dfb4b-d238-43ea-902d-0c681e2ce695,wondrous.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,25/09/2026 00:25
-d869b32b-8a8d-44d8-a37a-4e78ac8aadf9,definitely.ryukyu,available,22.98,,high,low,10,namecheap,,,
-c7e56745-0f7a-463f-99b2-ea9ff1ce1ac3,special.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,24/09/2026 15:16
-1b097968-b9b5-4a1e-aeac-25591a271858,beria.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,23/09/2026 09:22
-c9366793-6b46-410d-9c2a-9816e1af90f2,interior.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,25/09/2026 09:38
-97a3cc12-0c83-4367-9be6-99852269bc10,asian.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,22/09/2026 09:40
-5bb66099-1bbc-430d-8b45-46441679025c,irony.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,24/09/2026 13:17
-dc2c6e74-31be-40c0-ba7f-766a5455782d,someplace.ryukyu,available,24.99,31.99,high,low,9,name.com,,,16/09/2026 04:51
-b130eefd-85bc-4308-8ef0-380896e92061,aleksandr.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,28/09/2026 08:00
-1a6c038e-d13d-4545-8e83-e0e04b3ede67,augusta.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,21/09/2026 03:54
-38937759-6f45-43a9-80e8-663c1203e601,other.ryukyu,available,22.98,,high,low,5,namecheap,,,
-72750da3-1460-4649-ac69-6a4b38112422,puglia.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,19/09/2026 22:41
-b917f09f-ac8d-4505-a1b1-2543053a0d34,redbrush.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,18/09/2026 19:44
-741c5f70-42c5-422b-a1d0-7135b0780225,stella.ryukyu,available,17.98,22.98,high,medium,6,namecheap,,,27/09/2026 04:03
-3fa5ce93-be18-4bba-881e-8fac9d19b847,witt.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,28/09/2026 04:15
-bc162b71-5a64-4fcf-8d2b-68db09905db4,bullying.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,23/09/2026 10:48
-85dbefd5-04ab-4be9-beda-7d97bf468f50,existed.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,27/09/2026 21:59
-e2a372b7-c874-4eb3-94dc-88c3932727dd,constraints.ryukyu,available,17.98,22.98,low,low,11,namecheap,,,20/09/2026 23:49
-aec47150-9416-4721-9e95-dfa9b31e1809,simplify.ryukyu,available,22.98,,high,low,8,namecheap,,,
-0dc225e1-8f8b-42a8-9083-0635c4c9f711,top.ryukyu,available,17.98,22.98,high,medium,3,namecheap,,,25/09/2026 19:45
-3f24b329-0258-4e6c-bfc4-f50278523749,approaching.ryukyu,available,17.98,22.98,high,low,11,namecheap,,,25/09/2026 11:21
-1a1589d4-6150-4435-a7fe-4edd11b03108,anal.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,
-a5e187b8-aed5-4b8c-bf12-d157311359c0,that.ryukyu,available,22.98,,high,low,4,namecheap,,,
-8d2abde8-102d-451b-870a-41dce3644280,chen.ryukyu,available,24.99,31.99,high,low,4,name.com,,,25/09/2026 04:12
-2eb5fafe-63b1-4415-8b6e-865d90d9dfd9,abcs.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,16/09/2026 14:38
-4cfc4b70-9025-4f93-9163-1c8e33c3226e,color.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,23/09/2026 15:05
-3afbe434-bdcf-4a6b-9060-feffa08157a0,chinch.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,22/09/2026 22:46
-401a19ef-1b83-4652-9890-03f653a64869,abrasion.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,16/09/2026 16:56
-2bbf08e0-36a3-4152-8596-2e699ffa51b4,agee.ryukyu,available,17.98,22.98,medium,low,4,namecheap,,,17/09/2026 16:52
-8520fe42-957e-407a-98af-d1d47f471f79,textures.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,20/09/2026 19:34
-a92056fe-720d-44e0-8bf5-49b78954105d,speer.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,18/09/2026 02:44
-2d897f04-b27c-413d-ad19-989f4c8dc463,overnight.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,22/09/2026 00:44
-86647702-3754-455c-800b-a9aab5a5f5e7,vespucci.ryukyu,available,24.99,31.99,high,low,8,name.com,,,18/09/2026 21:04
-14631ebc-0fe8-4e7f-9213-60bbe427ae3d,rigour.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,20/09/2026 14:57
-86ade490-4cab-46c4-aaa7-599d0b2a7e87,roadman.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,21/09/2026 18:08
-989e8403-4980-4cfb-99d8-a4ef10a91a38,fairness.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,22/09/2026 22:20
-220caca3-c176-487d-821b-1a21b7fdd8bb,breathtaking.ryukyu,available,22.98,,high,low,12,namecheap,,,
-795dbff7-587b-47ae-8289-292fc392702a,microbar.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,22/09/2026 03:48
-663d6660-90a4-4905-856d-6bd74e19e9eb,corrections.ryukyu,available,17.98,22.98,medium,low,11,namecheap,,,17/09/2026 22:27
-94242150-8d47-41cd-8182-ad16e978600d,hughes.ryukyu,available,24.99,31.99,high,low,6,name.com,,,25/09/2026 04:10
-2be46d18-4eda-49d1-a406-56ecc9c30347,msc.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,27/09/2026 04:42
-5aed23a0-6654-4a58-99ce-ea1b687ffd6f,adler.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,25/09/2026 13:44
-7ac93923-5d71-4e34-a609-74b3cbc87ff2,agio.ryukyu,available,17.98,22.98,medium,low,4,namecheap,,,17/09/2026 18:01
-ffbc7c92-6610-4e2a-9909-493f20d910db,tomato.ryukyu,available,22.98,,high,low,6,namecheap,,,
-0655476c-cfb4-4ad4-937b-42805f230f38,titus.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,25/09/2026 05:37
-b1b2dc41-e02d-44b1-ae34-aa76a40e5d36,global.ryukyu,available,17.98,22.98,high,medium,6,namecheap,,,22/09/2026 16:32
-a8a0a7b6-2a2f-4e61-ae32-cd63108fb0b1,prc.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,25/09/2026 22:08
-552f1ee7-f80a-4ec5-bf1e-fa167bd56e8b,paused.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,18/09/2026 02:16
-06ff3a04-f5f8-4423-a01c-0e122e250703,rid.ryukyu,available,22.98,,high,low,3,namecheap,,,
-57f2cb12-7b3e-42c0-95cc-b29bc67e9eba,adriatic.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,17/09/2026 10:03
-248e9b7a-ddc5-4866-bcc6-c5928ce98757,basset.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,22/09/2026 12:10
-1379126d-1776-4abe-883c-edbb4ebf4fb7,settle.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,25/09/2026 10:17
-363d84ae-aa7d-4f02-aa79-c7734176be90,harmonious.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,21/08/2026 01:03
-e704934c-b0ca-4509-9436-ce6449b33889,battalion.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,22/09/2026 14:24
-2e6b8053-e466-4a8d-a986-1c0e9712a8fa,warily.ryukyu,available,17.98,22.98,low,low,6,namecheap,,,16/09/2026 11:20
-94152a9b-7f7f-4c7a-8cd3-0d20f85e3bb8,athena.ryukyu,available,17.98,22.98,high,medium,6,namecheap,,,20/09/2026 20:35
-725bc071-e158-4c3c-9adb-d25a1ffca7e0,yogurt.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,28/09/2026 02:43
-635162fe-1575-49f9-b660-073173d3c632,rot.ryukyu,available,17.98,22.98,medium,low,3,namecheap,,,28/09/2026 05:21
-a199a23f-eccb-42e3-8d12-613d84fa2eed,andira.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,19/09/2026 04:05
-4c0a4156-3ed2-4f83-9799-5d198107544b,mistake.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,25/09/2026 05:40
-db49b0de-7ab5-4fff-9337-1393568d22ec,opportunity.ryukyu,available,17.98,22.98,high,low,11,namecheap,,,27/09/2026 02:17
-f123a706-1206-4901-85c7-4666cb0fd196,deeply.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,13/08/2026 22:30
-d87aaa00-3d51-4e43-81ca-b6bf18fbfcf8,shirley.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,25/09/2026 13:56
-07007d3d-d3fb-4fb4-b51b-e33a6339e1ba,copaiba.ryukyu,available,24.99,31.99,medium,low,7,name.com,,,22/09/2026 00:08
-ffb60610-b7c0-4880-b514-a273fd2a5dc1,committing.ryukyu,available,22.98,,high,low,10,namecheap,,,
-b11b80a6-6d60-4da4-bee8-17a6d6768331,tornado.ryukyu,available,22.98,,high,low,7,namecheap,,,
-e6e0f81a-8ace-40b1-ac85-dfbbb7088ae9,aioli.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,17/09/2026 21:30
-225ec558-7f53-45ba-99e7-e7fec9344a08,ackee.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,17/09/2026 01:52
-95b01d09-5791-42fa-a6ab-a63960ff3a99,alike.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,21/09/2026 23:59
-e3854e20-52ce-40e7-b428-bdea2bb13f6b,alcaic.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,18/09/2026 03:46
-edd475f4-360c-40a9-b01a-df91c28b3977,serves.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,18/09/2026 11:42
-266d5840-539e-4578-99f9-30dfb4416402,accident.ryukyu,available,22.98,,high,low,8,namecheap,,,
-c780e2e1-b43e-4434-a9ae-67b99c526add,encounter.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,25/09/2026 19:00
-51c85f0a-86d1-4856-bff1-312e66ce618d,concise.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,23/09/2026 19:03
-d187ed0b-10e0-4134-885e-3aed1a22b354,adequately.ryukyu,available,22.98,,medium,low,10,namecheap,,,
-0597c451-f000-402f-b5cb-495115a94030,ada.ryukyu,available,22.98,,high,medium,3,namecheap,,,
-6f921281-1d96-455f-a3c4-f1b5140f9c7f,forth.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,22/09/2026 14:59
-4a2057fa-16a0-4913-b27d-572cfa4e819b,balance.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,27/09/2026 12:05
-755c2d7a-2a32-4ab4-931d-10ae8e543757,direct.ryukyu,available,17.98,22.98,high,medium,6,namecheap,,,24/09/2026 10:39
-d46e4252-6214-419b-b264-43733251f448,wei.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,25/09/2026 10:59
-450548db-0906-48b6-b5f7-3b9a88091d36,suspend.ryukyu,available,22.98,,high,low,7,namecheap,,,
-e537cf98-659b-4beb-b3b1-c8ffb2b6d172,acyl.ryukyu,available,17.98,22.98,medium,low,4,namecheap,,,17/09/2026 05:49
-56437306-7bfb-44f1-a8ae-53f2bf88059b,nebulizer.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,21/09/2026 00:21
-3ac4f0e6-4316-42c0-8dcf-5a565d5ce7ef,beg.ryukyu,available,22.98,,medium,low,3,namecheap,,,
-89e42658-08ac-48f8-a6cf-9f616faccc34,updates.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,20/09/2026 08:39
-84dcc9f7-e365-44b5-90d2-d633606c30d0,quick.ryukyu,available,17.98,22.98,high,medium,5,namecheap,,,21/09/2026 23:09
-69afd076-9b02-4bfa-af62-f42c9ee1b322,showing.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,25/09/2026 10:36
-da40597c-c880-438f-99c1-6c0c91e66fc8,expire.ryukyu,available,22.98,,medium,low,6,namecheap,,,
-5b0b41c9-11db-4336-8f31-73cd8ba06125,whose.ryukyu,available,22.98,,high,low,5,namecheap,,,
-0563cf55-debe-472e-8e07-83d6948dd879,detergent.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,24/09/2026 07:32
-2f3f90a0-5807-443b-812d-a57039b87503,blinking.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,22/09/2026 21:58
-da4429c5-780f-4851-b4dc-ef9fdd33d434,tooth.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,19/09/2026 18:20
-2fe06f1e-81ef-43a4-a2b4-5269ae420aeb,wanly.ryukyu,available,17.98,22.98,low,low,5,namecheap,,,16/09/2026 11:19
-4708c458-5cac-46f2-bff0-b77bad795164,biro.ryukyu,available,17.98,22.98,medium,low,4,namecheap,,,21/09/2026 23:23
-f46860be-f21c-4c75-a3b0-57e63eb39497,septet.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,
-c0a435cc-0267-4bb2-b745-d8915094509b,counterattack.ryukyu,available,22.98,,medium,low,14,namecheap,,,
-64bee110-badd-4e27-9fd6-f9edddd10c18,cloudburst.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,24/09/2026 16:03
-94cdd70e-5ca6-4c24-8b30-18b1798ab181,variety.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,25/09/2026 12:52
-091a34cf-cb7a-4813-b71f-62f507c70b91,determined.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,24/09/2026 07:38
-5a6d1498-ce32-46ea-a3bc-95b74d4ed9c0,assize.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,20/09/2026 16:30
-f9368c72-1b23-427a-9fb9-409a920bf347,veronal.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,22/09/2026 04:56
-39b3b5ed-3117-4b25-a29a-edc89ab8ba9a,lasting.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,24/09/2026 12:31
-71a0dd36-32e5-4233-a26d-f83bd3b9ab4f,athletics.ryukyu,available,22.98,,high,medium,9,namecheap,,,
-cc938742-a909-4a33-bbba-d8d94afabecf,acapulco.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,16/09/2026 21:10
-eec37376-43e7-4ff8-8f67-ce1bbecba62c,concerts.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,20/09/2026 13:34
-18097a78-4c74-4261-9a18-d26b2dbf6dfc,augur.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,21/09/2026 03:21
-bc536100-727a-4173-8860-e92745fa87bc,worship.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,17/09/2026 09:43
-f6f7f132-98be-4749-862e-69fafd1ef381,apparel.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,25/09/2026 13:33
-209e131e-e7eb-404a-b616-dd5b9f9282f8,hopeful.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,22/09/2026 09:48
-909b1d51-5154-44cc-8cb3-48f54f44cc94,decision.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,24/09/2026 17:06
-4fa794eb-a2f6-4de1-acf0-c1b1478ccd4f,core.ryukyu,available,22.98,,high,medium,4,namecheap,,,
-a88beb65-c566-41f3-9c90-0592c93ffb05,communist.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,23/09/2026 16:14
-7a9f4f9e-6185-4edc-89f1-8ce2d81373ae,exclusively.ryukyu,available,22.98,,medium,low,11,namecheap,,,
-0af097d7-c63e-430d-9d6a-880d93958617,systems.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,27/09/2026 02:29
-e3c40eaf-fc9f-49f6-984f-f06b917ccf88,surefooted.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,18/08/2026 10:50
-657f9a83-8aed-4a17-b325-49db701a1d00,demoted.ryukyu,available,17.98,22.98,low,low,7,namecheap,,,21/09/2026 05:02
-1fad6042-1f73-4ccc-aa0f-09562a6997f2,jaguars.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,20/09/2026 09:28
-59c18a87-4999-49ba-bcf5-1baaa9570124,banks.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,22/09/2026 02:52
-8265d768-3ff5-4b79-b7d5-2e41de045b93,competence.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,24/09/2026 16:46
-d3cd4f7a-a57c-4e2f-826b-6d0acd52defd,traded.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,25/09/2026 20:44
-fe16f2a0-6d8c-4300-866e-9d42e9e7a6f1,ratios.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,20/09/2026 23:23
-df64ded6-8eb8-450c-b212-098cd7470702,ashur.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,20/09/2026 13:50
-e486347c-2a7a-4c66-b82e-5f61c0758d41,bestiary.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,23/09/2026 10:36
-4b53ce73-55fd-4a77-a44b-cad19a528295,surf.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,24/09/2026 08:25
-0a2ab05d-e270-4923-99f9-9ae3444acead,facts.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,28/09/2026 04:09
-f1e35e21-c3e4-4f43-ab0d-21e21ea9524e,recognise.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,28/09/2026 06:55
-3452614b-2197-48a4-b320-0f04fa0449b2,flak.ryukyu,available,17.98,22.98,medium,low,4,namecheap,,,
-7cfcf56e-17cc-46dc-8cc1-90d4b0d356f7,nineties.ryukyu,available,24.99,31.99,medium,low,8,name.com,,,16/09/2026 12:01
-08911c5c-e6d6-4a54-87eb-987d482d43f0,aphorism.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,19/09/2026 17:09
-6d874a5f-fa62-4b10-8279-974a9be380cc,crime.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,24/09/2026 19:24
-8a81cfe6-a1d4-4662-9844-22c05ef19987,scribble.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,24/09/2026 11:35
-26280c6a-3d34-43e0-8c6a-72a18b37f32c,urban.ryukyu,available,22.98,,high,low,5,namecheap,,,
-15c1678e-cf20-496e-acad-2a778e37abf5,algae.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,18/09/2026 06:48
-d3a9a763-f068-4d10-a935-a58f3ac9486a,metric.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,25/09/2026 19:58
-89297845-7fa5-4010-bf92-a66aac7f7559,brass.ryukyu,available,22.98,,high,low,5,namecheap,,,
-5caa49a3-8ea3-4c35-8956-8b2728faf480,assonance.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,20/09/2026 16:32
-3f6581a6-1981-45af-8207-0fc29f22a517,wastebin.ryukyu,available,24.99,31.99,medium,low,8,name.com,,,20/09/2026 13:38
-e8cc2745-ecd4-4be9-b704-35991d8b8da5,hydrogen.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,20/09/2026 21:53
-6d62ed0b-2fdc-4823-ab9f-8912376684ba,rubidium.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,20/09/2026 22:58
-5039321f-d13c-4188-b44b-aa77769e927b,cooper.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,22/09/2026 08:17
-d3c74441-f43f-48b7-ac9b-f8d1e53501a6,halt.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,24/09/2026 01:49
-3d4e6d45-04ba-42a4-909e-74b6f74ae566,peeved.ryukyu,available,22.98,,medium,low,6,namecheap,,,
-82289034-fc56-4f81-86f7-c37d3e884863,cash.ryukyu,available,17.98,22.98,high,medium,4,namecheap,,,25/09/2026 04:05
-3d397ada-17a5-436e-8ea7-da70b7258246,actaea.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,17/09/2026 04:11
-3b43a39e-3f65-4ddb-94ce-d99cac7437ba,store.ryukyu,available,24.99,31.99,high,medium,5,name.com,,,24/09/2026 16:58
-08addda6-e5d9-424f-80c0-9a98ee8b39a1,crone.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,23/09/2026 04:47
-960f3d32-c117-4f07-826f-3e1e3c52662c,altruistic.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,22/09/2026 02:48
-01942953-3d91-469a-9ba9-dc2011726b37,mankind.ryukyu,available,33.99,33.99,high,low,7,godaddy,,,28/09/2026 02:08
-91455361-1769-4b70-9cfe-7c7ebe9c95b1,yule.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,24/09/2026 14:52
-cd191df0-6117-46b1-83d9-582172a381c4,device.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,28/09/2026 04:21
-6dc8a1f8-7b0e-45ad-b149-7818f00736d8,appanage.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,19/09/2026 16:11
-49ab19ea-2974-42ac-85b5-d90a40bebec5,betatron.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,23/09/2026 11:04
-479957bb-dd7c-48e4-975b-4db8c8c5470d,apheresis.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,19/09/2026 16:49
-5c6db66d-665d-44c6-9cc7-a4bbba70eebb,coding.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,28/09/2026 05:32
-b6c46f46-8b0b-4bf9-95c6-8674c37533e5,actinide.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,
-1d5ff4b4-9ee0-4d6e-b7c1-256a148bd267,accessary.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,
-ab6e57d6-e5c9-498d-9763-6cb62462d5b4,edna.ryukyu,available,24.99,31.99,high,low,4,name.com,,,27/09/2026 01:34
-1acb4bf8-fba4-498c-bebe-2e47a948a016,biloxi.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,23/09/2026 16:52
-ca8303ec-1de8-4493-92da-1c742c37dcd9,computerized.ryukyu,available,17.98,22.98,medium,low,12,namecheap,,,28/09/2026 02:46
-088519e8-967b-4e62-a4f4-f0e123304c20,bare.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,22/09/2026 11:54
-d4920858-fdc5-4ac1-a751-f2cd3bc9b1e4,covering.ryukyu,available,22.98,,high,low,8,namecheap,,,
-4a99e23a-c297-4c51-9f97-3cfa93404dd7,leering.ryukyu,available,24.99,31.99,medium,low,7,name.com,,,25/09/2026 05:58
-50ddfd90-4ec8-48a4-adf5-47c1d27f5a6f,gramophone.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,17/09/2026 02:30
-8a3514c3-8eee-4161-b2a2-dd0b0839a064,agaric.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,17/09/2026 16:17
-9070a2f5-5115-4f95-a4b5-91a105827d8f,startup.ryukyu,available,17.98,22.98,high,medium,7,namecheap,,,28/09/2026 04:08
-81ea9bca-828d-4df2-be4d-be4998dd0af0,byword.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,17/09/2026 06:09
-65f7103b-f7e0-4d69-a89b-30a163cd9f8e,crisp.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,24/09/2026 01:53
-5aa95034-12be-4688-bb36-029c054fd86d,aurorean.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,07/08/2026 18:12
-acbd70c9-dc48-4a90-8be6-60b062494b33,acerbity.ryukyu,available,24.99,31.99,medium,low,8,name.com,,,16/09/2026 23:41
-66e435ca-e1ce-4a73-a3ab-1d768f976f9c,caracas.ryukyu,available,22.98,,medium,low,7,namecheap,,,
-d80ba473-abf0-4798-b865-8708028072c3,apache.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,19/09/2026 16:09
-2a79b3b5-8c31-46d1-85b5-a81fee80bb2f,alupent.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,18/09/2026 15:17
-a0d698c4-8d37-43f6-aec1-f1d34b893e86,asterope.ryukyu,available,17.98,22.98,low,low,8,namecheap,,,20/09/2026 17:16
-ed157574-3b4b-4c87-abb5-59fd789f1cb2,lamb.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,27/09/2026 03:31
-63517776-71e0-4587-a1ba-dbb93c18707f,yea.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,16/09/2026 11:48
-c1142251-a913-4927-9af6-95e88c0f4dfb,afraid.ryukyu,available,24.99,31.99,medium,low,6,name.com,,,26/09/2026 00:46
-cbeab240-1264-4103-9ea4-67e3abf088a9,mangold.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,23/09/2026 11:02
-1dd23003-0922-4a33-813f-28e83cb6e5a2,anastrophe.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,19/09/2026 03:23
-919e7df4-3848-441b-9851-ba51c2606bb3,for.ryukyu,available,22.98,,high,medium,3,namecheap,,,
-4b53cbcb-da71-4eb6-95ac-9b9f442242f9,closely.ryukyu,available,22.98,,medium,low,7,namecheap,,,
-1d12eedb-262c-4a10-9324-01e520a76326,hide.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,24/09/2026 17:32
-dc693100-9537-4a21-8048-4e5e3a926639,coordinates.ryukyu,available,17.98,22.98,medium,low,11,namecheap,,,28/09/2026 04:24
-5c5da23c-d791-4506-92f7-7432c92ee16c,planetarium.ryukyu,available,22.98,,high,low,11,namecheap,,,
-da0ffec9-066e-4ba6-ae7f-388ba1200c28,amberjack.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,18/09/2026 16:35
-c324db42-f11f-4155-ae7c-16f63f501d72,thusly.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,16/09/2026 09:04
-cbaaf9a3-728b-4732-85f4-fd401a4a148f,reads.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,19/09/2026 00:45
-67243ba2-989b-4123-a7c5-8b757ef26e30,repay.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,28/09/2026 06:39
-5b2e5e4b-f5d9-4265-a439-2cddae1e9fe8,azimuth.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,21/09/2026 10:54
-4f528f89-e646-4a5e-b00b-2e0cafdc6b51,smoke.ryukyu,available,24.99,31.99,high,low,5,name.com,,,27/09/2026 23:23
-3fee69a7-d779-4d15-825a-f1e00475f6a5,toady.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,20/09/2026 15:35
-3472eec1-9393-405f-8665-eeb3f0773604,expecting.ryukyu,available,22.98,,high,low,9,namecheap,,,
-26689dad-ea8b-4b24-829b-84ffbdcb83d3,xcvi.ryukyu,available,17.98,22.98,medium,low,4,namecheap,,,
-c359a983-354b-4fc7-9654-8cf0b9e1266c,brigade.ryukyu,available,24.99,31.99,high,low,7,name.com,,,24/09/2026 10:19
-cfd2605a-c7ee-43be-bbfc-dd8ea539db8f,reporter.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,25/09/2026 09:33
-a9499d8c-c810-427d-9ce4-217277071081,learner.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,19/09/2026 22:19
-ef5092e8-ffb2-4815-93a5-b6b6e3b4a5aa,texted.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,20/09/2026 17:16
-8035c5c0-e1f4-481d-990d-126f51d01161,idiocy.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,18/09/2026 18:58
-50f253ae-8820-4e6f-a357-2128dfcb8094,robotic.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,22/09/2026 14:05
-64d33f8f-7c94-4e08-82d8-ca051f0ee94e,culinary.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,19/09/2026 15:04
-b79eff24-3890-47ec-98b2-07a572af2bce,alexis.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,19/09/2026 02:23
-57491c3a-d693-4d44-ac41-61171b42e1ec,pen.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,27/09/2026 03:22
-8f3a1128-a474-4225-b91e-774e34c19096,precautions.ryukyu,available,17.98,22.98,medium,low,11,namecheap,,,18/09/2026 09:01
-9cbf6c77-8603-4fcc-b598-fa4d97cff961,unexpected.ryukyu,available,22.98,,high,low,10,namecheap,,,
-39613c00-a4bb-4b39-8bbb-5608f7a0e3ef,fancy.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,24/09/2026 16:32
-5f40ea01-d51c-46aa-aa01-64328563ba79,withdrawal.ryukyu,available,17.98,22.98,medium,low,10,namecheap,,,21/09/2026 15:22
-9010cbc9-17e5-45cc-a0e1-579ff8e4ffbe,import.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,25/09/2026 18:33
-36d3e132-18fa-4701-b782-834f62c850f2,communism.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,24/09/2026 16:38
-cc1140db-5f03-4d76-bfba-5e8ad85279a6,merger.ryukyu,available,22.98,,high,low,6,namecheap,,,
-39f4941e-8b20-41e1-844b-a8238e33d84b,managing.ryukyu,available,22.98,,high,low,8,namecheap,,,
-fb9f9d14-7530-47fb-bc9c-b9b172407877,put.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,25/09/2026 13:13
-359554fd-11ed-4e25-818f-8b95d95e553b,cynthia.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,20/09/2026 10:13
-d19603eb-4561-4916-8228-8351c522bb4b,helps.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,25/09/2026 21:19
-07b13597-dcde-4440-bc68-7b73a8035c9d,aditya.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,17/09/2026 08:23
-e67c90ff-e782-43e3-a297-5c462751b3fb,beret.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,23/09/2026 09:15
-43e7fb27-8387-4cfc-b103-2afd09c6a5db,jenny.ryukyu,available,22.98,,high,low,5,namecheap,,,
-b432addb-d79f-49b3-900e-7bca335d9d7c,yelling.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,28/09/2026 06:53
-f603584b-ef68-491b-ba3b-40a91e72d5c5,aculea.ryukyu,available,17.98,22.98,low,low,6,namecheap,,,17/09/2026 05:32
-3d8bab2a-ed2b-4096-90ff-7636aba06223,lxxvii.ryukyu,available,17.98,22.98,medium,low,6,namecheap,,,
-de837edb-3df7-44a7-af38-37c9b60eeb83,newman.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,25/09/2026 03:58
-b63f5734-31cb-4ffd-842a-4d148707f648,biometry.ryukyu,available,17.98,22.98,medium,low,8,namecheap,,,23/09/2026 18:35
-7c4b1797-ab4e-4c50-9c0d-f7fb42605f65,mao.ryukyu,available,22.98,,high,low,3,namecheap,,,
-4fb86a06-16e4-4da2-aaa9-88ee1cdd78cc,lecture.ryukyu,available,22.98,,high,low,7,namecheap,,,
-6a656e4d-6867-41cd-bf62-b172b4a63c46,bonk.ryukyu,available,17.98,22.98,medium,low,4,namecheap,,,22/09/2026 10:31
-0795cc27-2aa7-4365-a2fb-4259340d174b,batter.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,22/09/2026 14:16
-4e8ebaa0-371a-40c5-a0de-e2bd11a3b4e3,predilection.ryukyu,available,22.98,,medium,low,12,namecheap,,,
-41a27004-68a1-4b0c-aef5-e8040cc2c9d0,grains.ryukyu,available,22.98,,high,low,6,namecheap,,,
-5aa92545-ab24-4b57-872e-989418ab9c4d,strike.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,25/08/2026 00:52
-3ed6ae3b-e694-46e9-b354-5e20d67bef10,compassion.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,24/09/2026 16:46
-6fc879b6-9b6a-42d7-b5eb-dc3892114d15,wendell.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,27/09/2026 20:17
-d0154b37-0d20-4602-b37b-060367a2a595,elaborate.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,24/09/2026 07:12
-13ddf32c-7538-41ac-b595-43ead5e894b0,artist.ryukyu,available,24.99,31.99,high,low,6,name.com,,,25/09/2026 04:10
-66d5e8fe-413c-42b0-83ec-2b51a5738e45,conviction.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,24/09/2026 18:01
-67b93fb2-7f6e-415a-8b49-aaec03f42383,nuke.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,21/09/2026 00:16
-64a87bda-f970-4461-8ec5-600ddcf85323,astana.ryukyu,available,24.99,31.99,high,low,6,name.com,,,18/09/2026 00:11
-002ea765-c70f-4c2a-af3d-4d37386abd05,spike.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,19/09/2026 15:31
-e1f71cbe-9544-4e00-82cb-0a3871c5f5cd,raleigh.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,25/09/2026 03:57
-009d2235-33e9-4597-9962-dd32ca13e8c3,prick.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,08/08/2026 23:38
-87116980-7bf9-4617-ba7c-20f212d59cb7,birdhouse.ryukyu,available,24.99,31.99,high,low,9,name.com,,,23/09/2026 20:39
-37eabdb6-2427-464f-addf-c56e8f69921e,sister.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,26/09/2026 00:18
-e665e133-61d0-4979-9350-be7a9c0db6e8,iaa.ryukyu,available,17.98,22.98,medium,low,3,namecheap,,,17/09/2026 07:22
-f5aac0cd-34a5-4da9-a357-b9ff13bdd896,nikolai.ryukyu,available,24.99,31.99,high,low,7,name.com,,,27/09/2026 20:11
-3c447cb3-226d-472e-9b00-28674142cb81,dealing.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,25/09/2026 04:50
-6e5abbee-1bb9-416d-a8dc-ee90d8abc92f,positions.ryukyu,available,17.98,22.98,medium,low,9,namecheap,,,19/09/2026 00:35
-cc8343ff-3f9e-4d00-a2f8-dea0b52e5fdc,appraised.ryukyu,available,24.99,31.99,medium,low,9,name.com,,,18/09/2026 22:16
-21ac7905-2e71-4935-8d1c-03d0f2b9e399,cuts.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,19/09/2026 00:14
-3d8a1d4f-b2b0-4205-a9ef-5982996a5fc3,mahan.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,18/09/2026 06:45
-1cb06b43-2994-4185-acdd-5ab486c8eed5,jeremiah.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,24/09/2026 06:54
-8e0e118f-4ea3-4567-a7eb-42fbd9d993a8,koala.ryukyu,available,22.98,,high,low,5,namecheap,,,
-7dc89dc4-0d3a-418b-b9cf-569999c290c4,appro.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,19/09/2026 22:20
-5ea8496e-b002-4186-ac1d-00c7b16065ca,lease.ryukyu,available,17.98,22.98,high,low,5,namecheap,,,09/09/2026 14:19
-62070328-7fe5-40b6-81a2-13b3d9971d2e,harper.ryukyu,available,17.98,22.98,high,low,6,namecheap,,,25/09/2026 06:58
